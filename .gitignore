@@ -1,7 +1,5 @@
 # Binaries and build artifacts
 bin/
-confusables-gen
-data-gen
 
 # Testing and coverage
 coverage.out
@@ -9,7 +7,6 @@ coverage.out
 
 # Data source files
 *.txt
-!LICENSE
 
 # OS files
 .DS_Store
