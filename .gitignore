@@ -1,6 +1,11 @@
-# Binaries
+# Binaries and build artifacts
+bin/
 confusables-gen
 data-gen
+
+# Testing and coverage
+coverage.out
+*.test
 
 # Data source files
 *.txt

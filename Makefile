@@ -20,9 +20,8 @@ lint:
 
 ## build: Build the library and the generator tool
 build:
-	go build ./...
 	mkdir -p bin
-	go build -o bin/confusables-gen ./cmd/confusables-gen/main.go
+	go build -o bin/confusables-gen ./cmd/confusables-gen
 
 ## generate: Regenerate the embedded JSON data (requires network)
 generate:

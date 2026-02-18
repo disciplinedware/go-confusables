@@ -62,10 +62,16 @@ fmt.Printf("Source Date: %s\n", db.SourceDate())
 
 ## CLI Tool: Updating Data
 
-You can regenerate the embedded data using the provided CLI tool. For CI/reproducible builds, you can provide a deterministic timestamp:
+You can regenerate the embedded data using the provided CLI tool:
 
 ```bash
-go run ./cmd/confusables-gen --version 16.0.0 --generated-at 2026-02-18T12:00:00Z
+go run ./cmd/confusables-gen
+```
+
+For reproducible builds or targeting specific versions, you can use optional flags:
+
+```bash
+go run ./cmd/confusables-gen [--version latest] [--generated-at 2026-02-18T12:00:00Z]
 ```
 
 ## Development
