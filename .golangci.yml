@@ -1,4 +1,4 @@
-version: 2
+version: "2"
 
 run:
   timeout: 5m
@@ -12,15 +12,16 @@ linters:
     - ineffassign
     - revive
     - misspell
-
-linters-settings:
-  revive:
-    rules:
-      - name: exported
-        severity: warning
-        disabled: false
+  settings:
+    revive:
+      rules:
+        - name: exported
+          severity: warning
+          disabled: false
+  exclusions:
+    presets: []
+    rules: []
 
 issues:
-  exclude-use-default: false
   max-issues-per-linter: 0
   max-same-issues: 0
