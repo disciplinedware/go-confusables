@@ -1,3 +1,4 @@
+// Package confusables provides utilities to detect and normalize Unicode confusable characters.
 package confusables
 
 import (

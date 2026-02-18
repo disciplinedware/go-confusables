@@ -172,7 +172,7 @@ func TestMetadata(t *testing.T) {
 	}
 }
 
-func TestConcurrency(t *testing.T) {
+func TestConcurrency(_ *testing.T) {
 	db := Default()
 	const (
 		goroutines = 100

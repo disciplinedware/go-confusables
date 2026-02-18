@@ -1,9 +1,9 @@
 {
-  "unicode_version": "16.0.0",
-  "generated_at": "2026-02-18T12:00:00Z",
-  "source_url": "https://unicode.org/Public/security/16.0.0/confusables.txt",
-  "source_date": "2024-08-14, 23:39:57 GMT",
-  "total_mappings": 6355,
+  "unicode_version": "17.0.0",
+  "generated_at": "2026-02-18T15:47:37.516616Z",
+  "source_url": "https://unicode.org/Public/security/latest/confusables.txt",
+  "source_date": "2025-07-22, 05:49:37 GMT",
+  "total_mappings": 6565,
   "mappings": [
     {
       "source": 1453,
@@ -211,6 +211,22 @@
         774
       ],
       "source_name": "COMBINING LATIN SMALL LETTER V",
+      "target_name": "COMBINING BREVE"
+    },
+    {
+      "source": 2373,
+      "target": [
+        774
+      ],
+      "source_name": "DEVANAGARI VOWEL SIGN CANDRA E",
+      "target_name": "COMBINING BREVE"
+    },
+    {
+      "source": 72550,
+      "target": [
+        774
+      ],
+      "source_name": "SHARADA VOWEL SIGN CANDRA E",
       "target_name": "COMBINING BREVE"
     },
     {
@@ -688,6 +704,23 @@
       "target_name": "COMBINING MACRON"
     },
     {
+      "source": 6882,
+      "target": [
+        772
+      ],
+      "source_name": "COMBINING MINUS SIGN ABOVE",
+      "target_name": "COMBINING MACRON"
+    },
+    {
+      "source": 6888,
+      "target": [
+        772,
+        772
+      ],
+      "source_name": "COMBINING EQUALS SIGN ABOVE",
+      "target_name": "COMBINING MACRON, COMBINING MACRON"
+    },
+    {
       "source": 7386,
       "target": [
         782
@@ -734,6 +767,22 @@
       ],
       "source_name": "DEVANAGARI SIGN INVERTED CANDRABINDU",
       "target_name": "COMBINING FERMATA"
+    },
+    {
+      "source": 6873,
+      "target": [
+        6854
+      ],
+      "source_name": "COMBINING SHARP SIGN",
+      "target_name": "COMBINING NUMBER SIGN ABOVE"
+    },
+    {
+      "source": 124654,
+      "target": [
+        6856
+      ],
+      "source_name": "TAI YO SIGN AY",
+      "target_name": "COMBINING PLUS SIGN ABOVE"
     },
     {
       "source": 7405,
@@ -1521,6 +1570,14 @@
       "target_name": "HYPHEN-MINUS"
     },
     {
+      "source": 11451,
+      "target": [
+        45
+      ],
+      "source_name": "COPTIC SMALL LETTER DIALECT-P NI",
+      "target_name": "HYPHEN-MINUS"
+    },
+    {
       "source": 11450,
       "target": [
         45
@@ -1562,6 +1619,24 @@
         775
       ],
       "source_name": "DOT MINUS",
+      "target_name": "HYPHEN-MINUS, COMBINING DOT ABOVE"
+    },
+    {
+      "source": 11443,
+      "target": [
+        45,
+        775
+      ],
+      "source_name": "COPTIC SMALL LETTER DIALECT-P ALEF",
+      "target_name": "HYPHEN-MINUS, COMBINING DOT ABOVE"
+    },
+    {
+      "source": 11442,
+      "target": [
+        45,
+        775
+      ],
+      "source_name": "COPTIC CAPITAL LETTER DIALECT-P ALEF",
       "target_name": "HYPHEN-MINUS, COMBINING DOT ABOVE"
     },
     {
@@ -1796,6 +1871,14 @@
         58
       ],
       "source_name": "LISU LETTER TONE MYA JEU",
+      "target_name": "COLON"
+    },
+    {
+      "source": 73177,
+      "target": [
+        58
+      ],
+      "source_name": "TOLONG SIKI SIGN SELA",
       "target_name": "COLON"
     },
     {
@@ -5455,6 +5538,14 @@
       "target_name": "SOLIDUS"
     },
     {
+      "source": 11463,
+      "target": [
+        47
+      ],
+      "source_name": "COPTIC SMALL LETTER OLD COPTIC ESH",
+      "target_name": "SOLIDUS"
+    },
+    {
       "source": 11462,
       "target": [
         47
@@ -5923,6 +6014,15 @@
       "target_name": "DEGREE SIGN, COMBINING LOW LINE"
     },
     {
+      "source": 69328,
+      "target": [
+        176,
+        818
+      ],
+      "source_name": "ARABIC BIBLICAL END OF VERSE",
+      "target_name": "DEGREE SIGN, COMBINING LOW LINE"
+    },
+    {
       "source": 9060,
       "target": [
         176,
@@ -6272,6 +6372,14 @@
       "target_name": "PLUS SIGN"
     },
     {
+      "source": 124649,
+      "target": [
+        43
+      ],
+      "source_name": "TAI YO LETTER IA",
+      "target_name": "PLUS SIGN"
+    },
+    {
       "source": 10787,
       "target": [
         43,
@@ -6400,6 +6508,15 @@
       "target_name": "LESS-THAN SIGN, MIDDLE DOT"
     },
     {
+      "source": 11445,
+      "target": [
+        60,
+        183
+      ],
+      "source_name": "COPTIC SMALL LETTER OLD COPTIC AIN",
+      "target_name": "LESS-THAN SIGN, MIDDLE DOT"
+    },
+    {
       "source": 11444,
       "target": [
         60,
@@ -6513,6 +6630,15 @@
       ],
       "source_name": "GEOMETRICALLY EQUAL TO",
       "target_name": "EQUALS SIGN, COMBINING DOT ABOVE, COMBINING DOT BELOW"
+    },
+    {
+      "source": 11158,
+      "target": [
+        61,
+        6834
+      ],
+      "source_name": "EQUALS SIGN WITH INFINITY ABOVE",
+      "target_name": "EQUALS SIGN, COMBINING INFINITY"
     },
     {
       "source": 10862,
@@ -6802,6 +6928,14 @@
         8801
       ],
       "source_name": "STRICTLY EQUIVALENT TO",
+      "target_name": "IDENTICAL TO"
+    },
+    {
+      "source": 11447,
+      "target": [
+        8801
+      ],
+      "source_name": "COPTIC SMALL LETTER CRYPTOGRAMMIC EIE",
       "target_name": "IDENTICAL TO"
     },
     {
@@ -7254,14 +7388,6 @@
       "target_name": "Z NOTATION SCHEMA COMPOSITION"
     },
     {
-      "source": 65952,
-      "target": [
-        11496
-      ],
-      "source_name": "GREEK SYMBOL TAU RHO",
-      "target_name": "COPTIC SYMBOL TAU RO"
-    },
-    {
       "source": 9833,
       "target": [
         119128,
@@ -7295,6 +7421,14 @@
       ],
       "source_name": "ANTICLOCKWISE OPEN CIRCLE ARROW",
       "target_name": "CIRCLED ANTICLOCKWISE ARROW"
+    },
+    {
+      "source": 118011,
+      "target": [
+        128760
+      ],
+      "source_name": "FLYING SAUCER SYMBOL",
+      "target_name": "FLYING SAUCER"
     },
     {
       "source": 729,
@@ -7710,6 +7844,14 @@
       "target_name": "DEVANAGARI DIGIT TWO"
     },
     {
+      "source": 2736,
+      "target": [
+        2408
+      ],
+      "source_name": "GUJARATI LETTER RA",
+      "target_name": "DEVANAGARI DIGIT TWO"
+    },
+    {
       "source": 70866,
       "target": [
         2536
@@ -7974,6 +8116,22 @@
       "target_name": "DIGIT THREE"
     },
     {
+      "source": 2409,
+      "target": [
+        51
+      ],
+      "source_name": "DEVANAGARI DIGIT THREE",
+      "target_name": "DIGIT THREE"
+    },
+    {
+      "source": 2793,
+      "target": [
+        51
+      ],
+      "source_name": "GUJARATI DIGIT THREE",
+      "target_name": "DIGIT THREE"
+    },
+    {
       "source": 118003,
       "target": [
         51
@@ -8062,6 +8220,22 @@
       "target_name": "DIGIT THREE"
     },
     {
+      "source": 11420,
+      "target": [
+        51
+      ],
+      "source_name": "COPTIC CAPITAL LETTER KSI",
+      "target_name": "DIGIT THREE"
+    },
+    {
+      "source": 11460,
+      "target": [
+        51
+      ],
+      "source_name": "COPTIC CAPITAL LETTER OLD COPTIC SHEI",
+      "target_name": "DIGIT THREE"
+    },
+    {
       "source": 11468,
       "target": [
         51
@@ -8116,14 +8290,6 @@
       ],
       "source_name": "MENDE KIKAKUI DIGIT THREE",
       "target_name": "ARABIC-INDIC DIGIT THREE"
-    },
-    {
-      "source": 2793,
-      "target": [
-        2409
-      ],
-      "source_name": "GUJARATI DIGIT THREE",
-      "target_name": "DEVANAGARI DIGIT THREE"
     },
     {
       "source": 9314,
@@ -8539,11 +8705,35 @@
       "target_name": "DIGIT SIX"
     },
     {
+      "source": 11475,
+      "target": [
+        54
+      ],
+      "source_name": "COPTIC SMALL LETTER OLD COPTIC HEI",
+      "target_name": "DIGIT SIX"
+    },
+    {
       "source": 11474,
       "target": [
         54
       ],
       "source_name": "COPTIC CAPITAL LETTER OLD COPTIC HEI",
+      "target_name": "DIGIT SIX"
+    },
+    {
+      "source": 1004,
+      "target": [
+        54
+      ],
+      "source_name": "COPTIC CAPITAL LETTER SHIMA",
+      "target_name": "DIGIT SIX"
+    },
+    {
+      "source": 11484,
+      "target": [
+        54
+      ],
+      "source_name": "COPTIC CAPITAL LETTER OLD NUBIAN SHIMA",
       "target_name": "DIGIT SIX"
     },
     {
@@ -9039,6 +9229,14 @@
         57
       ],
       "source_name": "LATIN CAPITAL LETTER CON",
+      "target_name": "DIGIT NINE"
+    },
+    {
+      "source": 11467,
+      "target": [
+        57
+      ],
+      "source_name": "COPTIC SMALL LETTER DIALECT-P HORI",
       "target_name": "DIGIT NINE"
     },
     {
@@ -9981,6 +10179,14 @@
       "target_name": "LATIN SMALL LETTER B"
     },
     {
+      "source": 93878,
+      "target": [
+        98
+      ],
+      "source_name": "BERIA ERFE CAPITAL LETTER UI",
+      "target_name": "LATIN SMALL LETTER B"
+    },
+    {
       "source": 65314,
       "target": [
         66
@@ -10154,6 +10360,14 @@
         66
       ],
       "source_name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL BETA",
+      "target_name": "LATIN CAPITAL LETTER B"
+    },
+    {
+      "source": 11394,
+      "target": [
+        66
+      ],
+      "source_name": "COPTIC CAPITAL LETTER VIDA",
       "target_name": "LATIN CAPITAL LETTER B"
     },
     {
@@ -10340,6 +10554,14 @@
       "target_name": "LATIN SMALL LETTER B, LATIN SMALL LETTER L"
     },
     {
+      "source": 11395,
+      "target": [
+        665
+      ],
+      "source_name": "COPTIC SMALL LETTER VIDA",
+      "target_name": "LATIN LETTER SMALL CAPITAL B"
+    },
+    {
       "source": 1074,
       "target": [
         665
@@ -10505,6 +10727,22 @@
         99
       ],
       "source_name": "CYRILLIC SMALL LETTER ES",
+      "target_name": "LATIN SMALL LETTER C"
+    },
+    {
+      "source": 4100,
+      "target": [
+        99
+      ],
+      "source_name": "MYANMAR LETTER NGA",
+      "target_name": "LATIN SMALL LETTER C"
+    },
+    {
+      "source": 4186,
+      "target": [
+        99
+      ],
+      "source_name": "MYANMAR LETTER MON NGA",
       "target_name": "LATIN SMALL LETTER C"
     },
     {
@@ -11632,6 +11870,14 @@
       "target_name": "LATIN SMALL LETTER DELTA"
     },
     {
+      "source": 11485,
+      "target": [
+        7839
+      ],
+      "source_name": "COPTIC SMALL LETTER OLD NUBIAN SHIMA",
+      "target_name": "LATIN SMALL LETTER DELTA"
+    },
+    {
       "source": 1390,
       "target": [
         7839
@@ -12402,6 +12648,14 @@
       "target_name": "LATIN SMALL LETTER F"
     },
     {
+      "source": 402,
+      "target": [
+        102
+      ],
+      "source_name": "LATIN SMALL LETTER F WITH HOOK",
+      "target_name": "LATIN SMALL LETTER F"
+    },
+    {
       "source": 383,
       "target": [
         102
@@ -12626,15 +12880,6 @@
       "target_name": "LATIN CAPITAL LETTER F"
     },
     {
-      "source": 402,
-      "target": [
-        102,
-        806
-      ],
-      "source_name": "LATIN SMALL LETTER F WITH HOOK",
-      "target_name": "LATIN SMALL LETTER F, COMBINING COMMA BELOW"
-    },
-    {
       "source": 401,
       "target": [
         70,
@@ -12713,10 +12958,11 @@
       "source": 681,
       "target": [
         102,
-        331
+        110,
+        809
       ],
       "source_name": "LATIN SMALL LETTER FENG DIGRAPH",
-      "target_name": "LATIN SMALL LETTER F, LATIN SMALL LETTER ENG"
+      "target_name": "LATIN SMALL LETTER F, LATIN SMALL LETTER N, COMBINING VERTICAL LINE BELOW"
     },
     {
       "source": 5557,
@@ -13590,6 +13836,14 @@
       "target_name": "LATIN CAPITAL LETTER H, COMBINING COMMA BELOW"
     },
     {
+      "source": 11407,
+      "target": [
+        668
+      ],
+      "source_name": "COPTIC SMALL LETTER HATE",
+      "target_name": "LATIN LETTER SMALL CAPITAL H"
+    },
+    {
       "source": 1085,
       "target": [
         668
@@ -13937,6 +14191,14 @@
       "target_name": "LATIN SMALL LETTER I"
     },
     {
+      "source": 11411,
+      "target": [
+        105
+      ],
+      "source_name": "COPTIC SMALL LETTER IAUDA",
+      "target_name": "LATIN SMALL LETTER I"
+    },
+    {
       "source": 1110,
       "target": [
         105
@@ -13953,11 +14215,11 @@
       "target_name": "LATIN SMALL LETTER I"
     },
     {
-      "source": 1231,
+      "source": 1410,
       "target": [
         105
       ],
-      "source_name": "CYRILLIC SMALL LETTER PALOCHKA",
+      "source_name": "ARMENIAN SMALL LETTER YIWN",
       "target_name": "LATIN SMALL LETTER I"
     },
     {
@@ -15317,6 +15579,14 @@
       "target_name": "LATIN SMALL LETTER L"
     },
     {
+      "source": 1231,
+      "target": [
+        108
+      ],
+      "source_name": "CYRILLIC SMALL LETTER PALOCHKA",
+      "target_name": "LATIN SMALL LETTER L"
+    },
+    {
       "source": 1216,
       "target": [
         108
@@ -15434,6 +15704,30 @@
         108
       ],
       "source_name": "OLD ITALIC LETTER I",
+      "target_name": "LATIN SMALL LETTER L"
+    },
+    {
+      "source": 73178,
+      "target": [
+        108
+      ],
+      "source_name": "TOLONG SIKI SIGN HECAKA",
+      "target_name": "LATIN SMALL LETTER L"
+    },
+    {
+      "source": 73185,
+      "target": [
+        108
+      ],
+      "source_name": "TOLONG SIKI DIGIT ONE",
+      "target_name": "LATIN SMALL LETTER L"
+    },
+    {
+      "source": 93866,
+      "target": [
+        108
+      ],
+      "source_name": "BERIA ERFE CAPITAL LETTER LAKKO",
       "target_name": "LATIN SMALL LETTER L"
     },
     {
@@ -17040,6 +17334,15 @@
       "target_name": "LATIN SMALL LETTER N, COMBINING VERTICAL LINE BELOW"
     },
     {
+      "source": 331,
+      "target": [
+        110,
+        809
+      ],
+      "source_name": "LATIN SMALL LETTER ENG",
+      "target_name": "LATIN SMALL LETTER N, COMBINING VERTICAL LINE BELOW"
+    },
+    {
       "source": 951,
       "target": [
         110,
@@ -17091,6 +17394,15 @@
         809
       ],
       "source_name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL ETA",
+      "target_name": "LATIN SMALL LETTER N, COMBINING VERTICAL LINE BELOW"
+    },
+    {
+      "source": 1394,
+      "target": [
+        110,
+        809
+      ],
+      "source_name": "ARMENIAN SMALL LETTER GHAD",
       "target_name": "LATIN SMALL LETTER N, COMBINING VERTICAL LINE BELOW"
     },
     {
@@ -17146,6 +17458,14 @@
       ],
       "source_name": "NUMERO SIGN",
       "target_name": "LATIN CAPITAL LETTER N, LATIN SMALL LETTER O"
+    },
+    {
+      "source": 11419,
+      "target": [
+        628
+      ],
+      "source_name": "COPTIC SMALL LETTER NI",
+      "target_name": "LATIN LETTER SMALL CAPITAL N"
     },
     {
       "source": 887,
@@ -17220,6 +17540,14 @@
       "target_name": "LATIN SMALL LETTER O"
     },
     {
+      "source": 2534,
+      "target": [
+        111
+      ],
+      "source_name": "BENGALI DIGIT ZERO",
+      "target_name": "LATIN SMALL LETTER O"
+    },
+    {
       "source": 2662,
       "target": [
         111
@@ -17236,6 +17564,14 @@
       "target_name": "LATIN SMALL LETTER O"
     },
     {
+      "source": 2918,
+      "target": [
+        111
+      ],
+      "source_name": "ORIYA DIGIT ZERO",
+      "target_name": "LATIN SMALL LETTER O"
+    },
+    {
       "source": 3046,
       "target": [
         111
@@ -17249,14 +17585,6 @@
         111
       ],
       "source_name": "TELUGU DIGIT ZERO",
-      "target_name": "LATIN SMALL LETTER O"
-    },
-    {
-      "source": 3302,
-      "target": [
-        111
-      ],
-      "source_name": "KANNADA DIGIT ZERO",
       "target_name": "LATIN SMALL LETTER O"
     },
     {
@@ -17289,6 +17617,22 @@
         111
       ],
       "source_name": "MYANMAR DIGIT ZERO",
+      "target_name": "LATIN SMALL LETTER O"
+    },
+    {
+      "source": 6112,
+      "target": [
+        111
+      ],
+      "source_name": "KHMER DIGIT ZERO",
+      "target_name": "LATIN SMALL LETTER O"
+    },
+    {
+      "source": 70864,
+      "target": [
+        111
+      ],
+      "source_name": "TIRHUTA DIGIT ZERO",
       "target_name": "LATIN SMALL LETTER O"
     },
     {
@@ -17548,6 +17892,14 @@
       "target_name": "LATIN SMALL LETTER O"
     },
     {
+      "source": 1005,
+      "target": [
+        111
+      ],
+      "source_name": "COPTIC SMALL LETTER SHIMA",
+      "target_name": "LATIN SMALL LETTER O"
+    },
+    {
       "source": 1086,
       "target": [
         111
@@ -17796,19 +18148,11 @@
       "target_name": "LATIN CAPITAL LETTER O"
     },
     {
-      "source": 2534,
+      "source": 3302,
       "target": [
         79
       ],
-      "source_name": "BENGALI DIGIT ZERO",
-      "target_name": "LATIN CAPITAL LETTER O"
-    },
-    {
-      "source": 2918,
-      "target": [
-        79
-      ],
-      "source_name": "ORIYA DIGIT ZERO",
+      "source_name": "KANNADA DIGIT ZERO",
       "target_name": "LATIN CAPITAL LETTER O"
     },
     {
@@ -17817,14 +18161,6 @@
         79
       ],
       "source_name": "IDEOGRAPHIC NUMBER ZERO",
-      "target_name": "LATIN CAPITAL LETTER O"
-    },
-    {
-      "source": 70864,
-      "target": [
-        79
-      ],
-      "source_name": "TIRHUTA DIGIT ZERO",
       "target_name": "LATIN CAPITAL LETTER O"
     },
     {
@@ -18164,6 +18500,14 @@
       "target_name": "LATIN CAPITAL LETTER O"
     },
     {
+      "source": 73184,
+      "target": [
+        79
+      ],
+      "source_name": "TOLONG SIKI DIGIT ZERO",
+      "target_name": "LATIN CAPITAL LETTER O"
+    },
+    {
       "source": 8304,
       "target": [
         186
@@ -18274,6 +18618,15 @@
         821
       ],
       "source_name": "LATIN SMALL LETTER O WITH LONG STROKE OVERLAY",
+      "target_name": "LATIN SMALL LETTER O, COMBINING SHORT STROKE OVERLAY"
+    },
+    {
+      "source": 11409,
+      "target": [
+        111,
+        821
+      ],
+      "source_name": "COPTIC SMALL LETTER THETHE",
       "target_name": "LATIN SMALL LETTER O, COMBINING SHORT STROKE OVERLAY"
     },
     {
@@ -18589,6 +18942,15 @@
         821
       ],
       "source_name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL THETA SYMBOL",
+      "target_name": "LATIN CAPITAL LETTER O, COMBINING SHORT STROKE OVERLAY"
+    },
+    {
+      "source": 11408,
+      "target": [
+        79,
+        821
+      ],
+      "source_name": "COPTIC CAPITAL LETTER THETHE",
       "target_name": "LATIN CAPITAL LETTER O, COMBINING SHORT STROKE OVERLAY"
     },
     {
@@ -18932,6 +19294,15 @@
       "target_name": "LATIN SMALL LETTER O, MALAYALAM LETTER RA, LATIN SMALL LETTER O"
     },
     {
+      "source": 4311,
+      "target": [
+        111,
+        4140
+      ],
+      "source_name": "GEORGIAN LETTER TAN",
+      "target_name": "LATIN SMALL LETTER O, MYANMAR VOWEL SIGN AA"
+    },
+    {
       "source": 4112,
       "target": [
         111,
@@ -19160,6 +19531,22 @@
       "target_name": "LATIN SMALL LETTER P"
     },
     {
+      "source": 254,
+      "target": [
+        112
+      ],
+      "source_name": "LATIN SMALL LETTER THORN",
+      "target_name": "LATIN SMALL LETTER P"
+    },
+    {
+      "source": 447,
+      "target": [
+        112
+      ],
+      "source_name": "LATIN LETTER WYNN",
+      "target_name": "LATIN SMALL LETTER P"
+    },
+    {
       "source": 961,
       "target": [
         112
@@ -19256,11 +19643,27 @@
       "target_name": "LATIN SMALL LETTER P"
     },
     {
+      "source": 1016,
+      "target": [
+        112
+      ],
+      "source_name": "GREEK SMALL LETTER SHO",
+      "target_name": "LATIN SMALL LETTER P"
+    },
+    {
       "source": 11427,
       "target": [
         112
       ],
       "source_name": "COPTIC SMALL LETTER RO",
+      "target_name": "LATIN SMALL LETTER P"
+    },
+    {
+      "source": 11471,
+      "target": [
+        112
+      ],
+      "source_name": "COPTIC SMALL LETTER OLD COPTIC HA",
       "target_name": "LATIN SMALL LETTER P"
     },
     {
@@ -19445,6 +19848,14 @@
         80
       ],
       "source_name": "COPTIC CAPITAL LETTER RO",
+      "target_name": "LATIN CAPITAL LETTER P"
+    },
+    {
+      "source": 11470,
+      "target": [
+        80
+      ],
+      "source_name": "COPTIC CAPITAL LETTER OLD COPTIC HA",
       "target_name": "LATIN CAPITAL LETTER P"
     },
     {
@@ -19641,6 +20052,22 @@
         632
       ],
       "source_name": "COPTIC SMALL LETTER FI",
+      "target_name": "LATIN SMALL LETTER PHI"
+    },
+    {
+      "source": 11489,
+      "target": [
+        632
+      ],
+      "source_name": "COPTIC SMALL LETTER OLD NUBIAN NYI",
+      "target_name": "LATIN SMALL LETTER PHI"
+    },
+    {
+      "source": 11488,
+      "target": [
+        632
+      ],
+      "source_name": "COPTIC CAPITAL LETTER OLD NUBIAN NYI",
       "target_name": "LATIN SMALL LETTER PHI"
     },
     {
@@ -20823,6 +21250,14 @@
       "target_name": "LATIN SMALL LETTER S"
     },
     {
+      "source": 3359,
+      "target": [
+        115
+      ],
+      "source_name": "MALAYALAM LETTER TTA",
+      "target_name": "LATIN SMALL LETTER S"
+    },
+    {
       "source": 43946,
       "target": [
         115
@@ -21851,6 +22286,14 @@
       "target_name": "LATIN LETTER SMALL CAPITAL T"
     },
     {
+      "source": 11431,
+      "target": [
+        7451
+      ],
+      "source_name": "COPTIC SMALL LETTER TAU",
+      "target_name": "LATIN LETTER SMALL CAPITAL T"
+    },
+    {
       "source": 1090,
       "target": [
         7451
@@ -22314,6 +22757,15 @@
       ],
       "source_name": "LATIN CAPITAL LETTER U WITH CARON",
       "target_name": "LATIN CAPITAL LETTER U WITH BREVE"
+    },
+    {
+      "source": 1119,
+      "target": [
+        117,
+        809
+      ],
+      "source_name": "CYRILLIC SMALL LETTER DZHE",
+      "target_name": "LATIN SMALL LETTER U, COMBINING VERTICAL LINE BELOW"
     },
     {
       "source": 7550,
@@ -22997,6 +23449,14 @@
       "target_name": "LATIN SMALL LETTER TURNED V"
     },
     {
+      "source": 11415,
+      "target": [
+        652
+      ],
+      "source_name": "COPTIC SMALL LETTER LAULA",
+      "target_name": "LATIN SMALL LETTER TURNED V"
+    },
+    {
       "source": 66776,
       "target": [
         652
@@ -23288,11 +23748,27 @@
       "target_name": "LATIN SMALL LETTER W"
     },
     {
+      "source": 11453,
+      "target": [
+        119
+      ],
+      "source_name": "COPTIC SMALL LETTER CRYPTOGRAMMIC NI",
+      "target_name": "LATIN SMALL LETTER W"
+    },
+    {
       "source": 1121,
       "target": [
         119
       ],
       "source_name": "CYRILLIC SMALL LETTER OMEGA",
+      "target_name": "LATIN SMALL LETTER W"
+    },
+    {
+      "source": 1096,
+      "target": [
+        119
+      ],
+      "source_name": "CYRILLIC SMALL LETTER SHA",
       "target_name": "LATIN SMALL LETTER W"
     },
     {
@@ -23546,6 +24022,14 @@
         653
       ],
       "source_name": "LATIN LETTER SMALL CAPITAL M",
+      "target_name": "LATIN SMALL LETTER TURNED W"
+    },
+    {
+      "source": 11417,
+      "target": [
+        653
+      ],
+      "source_name": "COPTIC SMALL LETTER MI",
       "target_name": "LATIN SMALL LETTER TURNED W"
     },
     {
@@ -24327,6 +24811,14 @@
       "target_name": "LATIN SMALL LETTER Y"
     },
     {
+      "source": 11433,
+      "target": [
+        121
+      ],
+      "source_name": "COPTIC SMALL LETTER UA",
+      "target_name": "LATIN SMALL LETTER Y"
+    },
+    {
       "source": 1091,
       "target": [
         121
@@ -24674,6 +25166,14 @@
         541
       ],
       "source_name": "LATIN SMALL LETTER ET",
+      "target_name": "LATIN SMALL LETTER YOGH"
+    },
+    {
+      "source": 11461,
+      "target": [
+        541
+      ],
+      "source_name": "COPTIC SMALL LETTER OLD COPTIC SHEI",
       "target_name": "LATIN SMALL LETTER YOGH"
     },
     {
@@ -25091,20 +25591,28 @@
       "target_name": "LATIN SMALL LETTER Z, COMBINING TILDE OVERLAY"
     },
     {
-      "source": 447,
+      "source": 11405,
       "target": [
-        254
+        11372
       ],
-      "source_name": "LATIN LETTER WYNN",
-      "target_name": "LATIN SMALL LETTER THORN"
+      "source_name": "COPTIC SMALL LETTER ZATA",
+      "target_name": "LATIN SMALL LETTER Z WITH DESCENDER"
     },
     {
-      "source": 1016,
+      "source": 11404,
       "target": [
-        254
+        11371
       ],
-      "source_name": "GREEK SMALL LETTER SHO",
-      "target_name": "LATIN SMALL LETTER THORN"
+      "source_name": "COPTIC CAPITAL LETTER ZATA",
+      "target_name": "LATIN CAPITAL LETTER Z WITH DESCENDER"
+    },
+    {
+      "source": 11421,
+      "target": [
+        659
+      ],
+      "source_name": "COPTIC SMALL LETTER KSI",
+      "target_name": "LATIN SMALL LETTER EZH WITH CURL"
     },
     {
       "source": 1015,
@@ -25121,6 +25629,22 @@
       ],
       "source_name": "OSAGE CAPITAL LETTER PA",
       "target_name": "LATIN CAPITAL LETTER THORN"
+    },
+    {
+      "source": 42962,
+      "target": [
+        42963
+      ],
+      "source_name": "LATIN CAPITAL LETTER DOUBLE THORN",
+      "target_name": "LATIN SMALL LETTER DOUBLE THORN"
+    },
+    {
+      "source": 42964,
+      "target": [
+        42965
+      ],
+      "source_name": "LATIN CAPITAL LETTER DOUBLE WYNN",
+      "target_name": "LATIN SMALL LETTER DOUBLE WYNN"
     },
     {
       "source": 8313,
@@ -25171,6 +25695,14 @@
       "target_name": "LATIN SMALL LETTER TONE SIX"
     },
     {
+      "source": 93905,
+      "target": [
+        389
+      ],
+      "source_name": "BERIA ERFE SMALL LETTER UI",
+      "target_name": "LATIN SMALL LETTER TONE SIX"
+    },
+    {
       "source": 1099,
       "target": [
         389,
@@ -25202,6 +25734,14 @@
       ],
       "source_name": "BAMUM LETTER LU",
       "target_name": "LATIN LETTER GLOTTAL STOP WITH STROKE"
+    },
+    {
+      "source": 9578,
+      "target": [
+        450
+      ],
+      "source_name": "BOX DRAWINGS VERTICAL SINGLE AND HORIZONTAL DOUBLE",
+      "target_name": "LATIN LETTER ALVEOLAR CLICK"
     },
     {
       "source": 8857,
@@ -25723,6 +26263,14 @@
       "target_name": "GREEK SMALL LETTER XI"
     },
     {
+      "source": 9776,
+      "target": [
+        926
+      ],
+      "source_name": "TRIGRAM FOR HEAVEN",
+      "target_name": "GREEK CAPITAL LETTER XI"
+    },
+    {
       "source": 120501,
       "target": [
         926
@@ -25760,6 +26308,14 @@
         926
       ],
       "source_name": "MATHEMATICAL SANS-SERIF BOLD ITALIC CAPITAL XI",
+      "target_name": "GREEK CAPITAL LETTER XI"
+    },
+    {
+      "source": 11446,
+      "target": [
+        926
+      ],
+      "source_name": "COPTIC CAPITAL LETTER CRYPTOGRAMMIC EIE",
       "target_name": "GREEK CAPITAL LETTER XI"
     },
     {
@@ -25867,11 +26423,27 @@
       "target_name": "GREEK SMALL LETTER PI"
     },
     {
+      "source": 11425,
+      "target": [
+        960
+      ],
+      "source_name": "COPTIC SMALL LETTER PI",
+      "target_name": "GREEK SMALL LETTER PI"
+    },
+    {
       "source": 1087,
       "target": [
         960
       ],
       "source_name": "CYRILLIC SMALL LETTER PE",
+      "target_name": "GREEK SMALL LETTER PI"
+    },
+    {
+      "source": 93889,
+      "target": [
+        960
+      ],
+      "source_name": "BERIA ERFE SMALL LETTER HIRDEABO",
       "target_name": "GREEK SMALL LETTER PI"
     },
     {
@@ -25955,6 +26527,14 @@
       "target_name": "GREEK CAPITAL LETTER PI"
     },
     {
+      "source": 93862,
+      "target": [
+        928
+      ],
+      "source_name": "BERIA ERFE CAPITAL LETTER HIRDEABO",
+      "target_name": "GREEK CAPITAL LETTER PI"
+    },
+    {
       "source": 66221,
       "target": [
         984
@@ -25969,6 +26549,14 @@
       ],
       "source_name": "OLD ITALIC LETTER KU",
       "target_name": "GREEK LETTER ARCHAIC KOPPA"
+    },
+    {
+      "source": 11457,
+      "target": [
+        1020
+      ],
+      "source_name": "COPTIC SMALL LETTER SAMPI",
+      "target_name": "GREEK RHO WITH STROKE SYMBOL"
     },
     {
       "source": 987,
@@ -26016,6 +26604,14 @@
         962
       ],
       "source_name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL FINAL SIGMA",
+      "target_name": "GREEK SMALL LETTER FINAL SIGMA"
+    },
+    {
+      "source": 11403,
+      "target": [
+        962
+      ],
+      "source_name": "COPTIC SMALL LETTER SOU",
       "target_name": "GREEK SMALL LETTER FINAL SIGMA"
     },
     {
@@ -26208,6 +26804,14 @@
         968
       ],
       "source_name": "MATHEMATICAL SANS-SERIF BOLD ITALIC SMALL PSI",
+      "target_name": "GREEK SMALL LETTER PSI"
+    },
+    {
+      "source": 11439,
+      "target": [
+        968
+      ],
+      "source_name": "COPTIC SMALL LETTER PSI",
       "target_name": "GREEK SMALL LETTER PSI"
     },
     {
@@ -26468,22 +27072,6 @@
       "target_name": "GREEK SMALL LETTER OMEGA WITH OXIA AND YPOGEGRAMMENI"
     },
     {
-      "source": 9776,
-      "target": [
-        11446
-      ],
-      "source_name": "TRIGRAM FOR HEAVEN",
-      "target_name": "COPTIC CAPITAL LETTER CRYPTOGRAMMIC EIE"
-    },
-    {
-      "source": 11484,
-      "target": [
-        1004
-      ],
-      "source_name": "COPTIC CAPITAL LETTER OLD NUBIAN SHIMA",
-      "target_name": "COPTIC CAPITAL LETTER SHIMA"
-    },
-    {
       "source": 1175,
       "target": [
         1078,
@@ -26684,6 +27272,46 @@
       "target_name": "CYRILLIC CAPITAL LETTER BROAD OMEGA"
     },
     {
+      "source": 11440,
+      "target": [
+        42572
+      ],
+      "source_name": "COPTIC CAPITAL LETTER OOU",
+      "target_name": "CYRILLIC CAPITAL LETTER BROAD OMEGA"
+    },
+    {
+      "source": 2795,
+      "target": [
+        1095
+      ],
+      "source_name": "GUJARATI DIGIT FIVE",
+      "target_name": "CYRILLIC SMALL LETTER CHE"
+    },
+    {
+      "source": 997,
+      "target": [
+        1095
+      ],
+      "source_name": "COPTIC SMALL LETTER FEI",
+      "target_name": "CYRILLIC SMALL LETTER CHE"
+    },
+    {
+      "source": 2730,
+      "target": [
+        1095
+      ],
+      "source_name": "GUJARATI LETTER PA",
+      "target_name": "CYRILLIC SMALL LETTER CHE"
+    },
+    {
+      "source": 996,
+      "target": [
+        1063
+      ],
+      "source_name": "COPTIC CAPITAL LETTER FEI",
+      "target_name": "CYRILLIC CAPITAL LETTER CHE"
+    },
+    {
       "source": 1228,
       "target": [
         1207
@@ -26707,14 +27335,6 @@
       ],
       "source_name": "CYRILLIC CAPITAL LETTER ABKHASIAN CHE WITH DESCENDER",
       "target_name": "CYRILLIC CAPITAL LETTER ABKHASIAN CHE, COMBINING OGONEK"
-    },
-    {
-      "source": 11453,
-      "target": [
-        1096
-      ],
-      "source_name": "COPTIC SMALL LETTER CRYPTOGRAMMIC NI",
-      "target_name": "CYRILLIC SMALL LETTER SHA"
     },
     {
       "source": 11452,
@@ -26769,10 +27389,10 @@
       "source": 1415,
       "target": [
         1381,
-        1410
+        105
       ],
       "source_name": "ARMENIAN SMALL LIGATURE ECH YIWN",
-      "target_name": "ARMENIAN SMALL LETTER ECH, ARMENIAN SMALL LETTER YIWN"
+      "target_name": "ARMENIAN SMALL LETTER ECH, LATIN SMALL LETTER I"
     },
     {
       "source": 4756,
@@ -26894,11 +27514,35 @@
       "target_name": "ARMENIAN SMALL LETTER VEW, ARMENIAN SMALL LETTER NOW"
     },
     {
+      "source": 11496,
+      "target": [
+        1364
+      ],
+      "source_name": "COPTIC SYMBOL TAU RO",
+      "target_name": "ARMENIAN CAPITAL LETTER KEH"
+    },
+    {
+      "source": 65952,
+      "target": [
+        1364
+      ],
+      "source_name": "GREEK SYMBOL TAU RHO",
+      "target_name": "ARMENIAN CAPITAL LETTER KEH"
+    },
+    {
       "source": 8381,
       "target": [
         1364
       ],
       "source_name": "RUBLE SIGN",
+      "target_name": "ARMENIAN CAPITAL LETTER KEH"
+    },
+    {
+      "source": 11456,
+      "target": [
+        1364
+      ],
+      "source_name": "COPTIC CAPITAL LETTER SAMPI",
       "target_name": "ARMENIAN CAPITAL LETTER KEH"
     },
     {
@@ -27090,10 +27734,10 @@
       "source": 1789,
       "target": [
         1569,
-        840
+        69370
       ],
       "source_name": "ARABIC SIGN SINDHI AMPERSAND",
-      "target_name": "ARABIC LETTER HAMZA, COMBINING DOUBLE VERTICAL LINE BELOW"
+      "target_name": "ARABIC LETTER HAMZA, ARABIC DOUBLE VERTICAL BAR BELOW"
     },
     {
       "source": 65154,
@@ -27540,6 +28184,14 @@
       "target_name": "ARABIC LETTER BEHEH"
     },
     {
+      "source": 69319,
+      "target": [
+        1664
+      ],
+      "source_name": "ARABIC LETTER YEH WITH FOUR DOTS BELOW",
+      "target_name": "ARABIC LETTER BEHEH"
+    },
+    {
       "source": 2217,
       "target": [
         1876
@@ -27666,6 +28318,55 @@
       ],
       "source_name": "ARABIC LETTER TEH ISOLATED FORM",
       "target_name": "ARABIC LETTER TEH"
+    },
+    {
+      "source": 1658,
+      "target": [
+        1578
+      ],
+      "source_name": "ARABIC LETTER TTEHEH",
+      "target_name": "ARABIC LETTER TEH"
+    },
+    {
+      "source": 64352,
+      "target": [
+        1578
+      ],
+      "source_name": "ARABIC LETTER TTEHEH INITIAL FORM",
+      "target_name": "ARABIC LETTER TEH"
+    },
+    {
+      "source": 64353,
+      "target": [
+        1578
+      ],
+      "source_name": "ARABIC LETTER TTEHEH MEDIAL FORM",
+      "target_name": "ARABIC LETTER TEH"
+    },
+    {
+      "source": 64351,
+      "target": [
+        1578
+      ],
+      "source_name": "ARABIC LETTER TTEHEH FINAL FORM",
+      "target_name": "ARABIC LETTER TEH"
+    },
+    {
+      "source": 64350,
+      "target": [
+        1578
+      ],
+      "source_name": "ARABIC LETTER TTEHEH ISOLATED FORM",
+      "target_name": "ARABIC LETTER TEH"
+    },
+    {
+      "source": 2239,
+      "target": [
+        1578,
+        774
+      ],
+      "source_name": "ARABIC LETTER TEH WITH SMALL V",
+      "target_name": "ARABIC LETTER TEH, COMBINING BREVE"
     },
     {
       "source": 64677,
@@ -27977,38 +28678,6 @@
       ],
       "source_name": "ARABIC LIGATURE TEH WITH YEH ISOLATED FORM",
       "target_name": "ARABIC LETTER TEH, ARABIC LETTER ALEF MAKSURA"
-    },
-    {
-      "source": 64352,
-      "target": [
-        1658
-      ],
-      "source_name": "ARABIC LETTER TTEHEH INITIAL FORM",
-      "target_name": "ARABIC LETTER TTEHEH"
-    },
-    {
-      "source": 64353,
-      "target": [
-        1658
-      ],
-      "source_name": "ARABIC LETTER TTEHEH MEDIAL FORM",
-      "target_name": "ARABIC LETTER TTEHEH"
-    },
-    {
-      "source": 64351,
-      "target": [
-        1658
-      ],
-      "source_name": "ARABIC LETTER TTEHEH FINAL FORM",
-      "target_name": "ARABIC LETTER TTEHEH"
-    },
-    {
-      "source": 64350,
-      "target": [
-        1658
-      ],
-      "source_name": "ARABIC LETTER TTEHEH ISOLATED FORM",
-      "target_name": "ARABIC LETTER TTEHEH"
     },
     {
       "source": 64356,
@@ -28364,6 +29033,15 @@
       ],
       "source_name": "ARABIC LETTER TCHEH ISOLATED FORM",
       "target_name": "ARABIC LETTER TCHEH"
+    },
+    {
+      "source": 2241,
+      "target": [
+        1670,
+        774
+      ],
+      "source_name": "ARABIC LETTER TCHEH WITH SMALL V",
+      "target_name": "ARABIC LETTER TCHEH, COMBINING BREVE"
     },
     {
       "source": 64384,
@@ -28870,6 +29548,15 @@
       "target_name": "ARABIC LETTER DAL, ARABIC SMALL HIGH THREE DOTS"
     },
     {
+      "source": 1679,
+      "target": [
+        1583,
+        1755
+      ],
+      "source_name": "ARABIC LETTER DAL WITH THREE DOTS ABOVE DOWNWARDS",
+      "target_name": "ARABIC LETTER DAL, ARABIC SMALL HIGH THREE DOTS"
+    },
+    {
       "source": 1774,
       "target": [
         1583,
@@ -29138,6 +29825,17 @@
         1604
       ],
       "source_name": "RIAL SIGN",
+      "target_name": "ARABIC LETTER REH, ARABIC LETTER ALEF MAKSURA, LATIN SMALL LETTER L, ARABIC LETTER LAM"
+    },
+    {
+      "source": 8385,
+      "target": [
+        1585,
+        1609,
+        108,
+        1604
+      ],
+      "source_name": "SAUDI RIYAL SIGN",
       "target_name": "ARABIC LETTER REH, ARABIC LETTER ALEF MAKSURA, LATIN SMALL LETTER L, ARABIC LETTER LAM"
     },
     {
@@ -31988,6 +32686,15 @@
       "target_name": "ARABIC LETTER KAF, ARABIC SMALL HIGH THREE DOTS"
     },
     {
+      "source": 2242,
+      "target": [
+        1603,
+        774
+      ],
+      "source_name": "ARABIC LETTER KEHEH WITH SMALL V",
+      "target_name": "ARABIC LETTER KAF, COMBINING BREVE"
+    },
+    {
       "source": 64640,
       "target": [
         1603,
@@ -32841,15 +33548,6 @@
       "target_name": "ARABIC LETTER MEEM, ARABIC SMALL HIGH THREE DOTS"
     },
     {
-      "source": 1790,
-      "target": [
-        1605,
-        840
-      ],
-      "source_name": "ARABIC SIGN SINDHI POSTPOSITION MEN",
-      "target_name": "ARABIC LETTER MEEM, COMBINING DOUBLE VERTICAL LINE BELOW"
-    },
-    {
       "source": 64648,
       "target": [
         1605,
@@ -33079,6 +33777,15 @@
       "target_name": "ARABIC LETTER MEEM, ARABIC LETTER ALEF MAKSURA"
     },
     {
+      "source": 1790,
+      "target": [
+        1605,
+        69370
+      ],
+      "source_name": "ARABIC SIGN SINDHI POSTPOSITION MEN",
+      "target_name": "ARABIC LETTER MEEM, ARABIC DOUBLE VERTICAL BAR BELOW"
+    },
+    {
       "source": 126477,
       "target": [
         1606
@@ -33156,6 +33863,14 @@
         1606
       ],
       "source_name": "ARABIC LETTER NOON ISOLATED FORM",
+      "target_name": "ARABIC LETTER NOON"
+    },
+    {
+      "source": 69318,
+      "target": [
+        1606
+      ],
+      "source_name": "ARABIC LETTER THIN NOON",
       "target_name": "ARABIC LETTER NOON"
     },
     {
@@ -34129,6 +34844,15 @@
       "target_name": "ARABIC LETTER ALEF MAKSURA, ARABIC SMALL HIGH THREE DOTS"
     },
     {
+      "source": 1874,
+      "target": [
+        1609,
+        1755
+      ],
+      "source_name": "ARABIC LETTER BEH WITH THREE DOTS POINTING UPWARDS BELOW",
+      "target_name": "ARABIC LETTER ALEF MAKSURA, ARABIC SMALL HIGH THREE DOTS"
+    },
+    {
       "source": 1579,
       "target": [
         1609,
@@ -34274,6 +34998,26 @@
       "target_name": "ARABIC LETTER ALEF MAKSURA, COMBINING BREVE"
     },
     {
+      "source": 2240,
+      "target": [
+        1609,
+        1557,
+        774
+      ],
+      "source_name": "ARABIC LETTER TTEH WITH SMALL V",
+      "target_name": "ARABIC LETTER ALEF MAKSURA, ARABIC SMALL HIGH TAH, COMBINING BREVE"
+    },
+    {
+      "source": 2238,
+      "target": [
+        1609,
+        1755,
+        774
+      ],
+      "source_name": "ARABIC LETTER PEH WITH SMALL V",
+      "target_name": "ARABIC LETTER ALEF MAKSURA, ARABIC SMALL HIGH THREE DOTS, COMBINING BREVE"
+    },
+    {
       "source": 2234,
       "target": [
         1609,
@@ -34291,6 +35035,15 @@
       ],
       "source_name": "ARABIC LETTER FARSI YEH WITH INVERTED V",
       "target_name": "ARABIC LETTER ALEF MAKSURA, COMBINING CIRCUMFLEX ACCENT"
+    },
+    {
+      "source": 2191,
+      "target": [
+        1609,
+        778
+      ],
+      "source_name": "ARABIC LETTER NOON WITH RING ABOVE",
+      "target_name": "ARABIC LETTER ALEF MAKSURA, COMBINING RING ABOVE"
     },
     {
       "source": 2216,
@@ -35139,6 +35892,14 @@
       "target_name": "TIFINAGH LETTER TUAREG YAH"
     },
     {
+      "source": 118511,
+      "target": [
+        11586
+      ],
+      "source_name": "GEOMANTIC FIGURE VIA",
+      "target_name": "TIFINAGH LETTER TUAREG YAH"
+    },
+    {
       "source": 65049,
       "target": [
         11607
@@ -35195,6 +35956,15 @@
       "target_name": "ETHIOPIC SYLLABLE THAA"
     },
     {
+      "source": 2418,
+      "target": [
+        2309,
+        774
+      ],
+      "source_name": "DEVANAGARI LETTER CANDRA A",
+      "target_name": "DEVANAGARI LETTER A, COMBINING BREVE"
+    },
+    {
       "source": 2310,
       "target": [
         2309,
@@ -35202,6 +35972,26 @@
       ],
       "source_name": "DEVANAGARI LETTER AA",
       "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN AA"
+    },
+    {
+      "source": 2321,
+      "target": [
+        2309,
+        2366,
+        774
+      ],
+      "source_name": "DEVANAGARI LETTER CANDRA O",
+      "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN AA, COMBINING BREVE"
+    },
+    {
+      "source": 2420,
+      "target": [
+        2309,
+        2366,
+        2362
+      ],
+      "source_name": "DEVANAGARI LETTER OOE",
+      "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN AA, DEVANAGARI VOWEL SIGN OE"
     },
     {
       "source": 2322,
@@ -35214,16 +36004,6 @@
       "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN AA, DEVANAGARI VOWEL SIGN SHORT E"
     },
     {
-      "source": 2323,
-      "target": [
-        2309,
-        2366,
-        2375
-      ],
-      "source_name": "DEVANAGARI LETTER O",
-      "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN AA, DEVANAGARI VOWEL SIGN E"
-    },
-    {
       "source": 2324,
       "target": [
         2309,
@@ -35232,6 +36012,34 @@
       ],
       "source_name": "DEVANAGARI LETTER AU",
       "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN AA, DEVANAGARI VOWEL SIGN AI"
+    },
+    {
+      "source": 2323,
+      "target": [
+        2309,
+        2366,
+        72548
+      ],
+      "source_name": "DEVANAGARI LETTER O",
+      "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN AA, SHARADA VOWEL SIGN SHORT E"
+    },
+    {
+      "source": 2419,
+      "target": [
+        2309,
+        2362
+      ],
+      "source_name": "DEVANAGARI LETTER OE",
+      "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN OE"
+    },
+    {
+      "source": 2421,
+      "target": [
+        2309,
+        2383
+      ],
+      "source_name": "DEVANAGARI LETTER AW",
+      "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN AW"
     },
     {
       "source": 2308,
@@ -35243,22 +36051,21 @@
       "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN SHORT E"
     },
     {
-      "source": 2321,
+      "source": 2596,
       "target": [
-        2309,
-        2377
+        2313
       ],
-      "source_name": "DEVANAGARI LETTER CANDRA O",
-      "target_name": "DEVANAGARI LETTER A, DEVANAGARI VOWEL SIGN CANDRA O"
+      "source_name": "GURMUKHI LETTER TA",
+      "target_name": "DEVANAGARI LETTER U"
     },
     {
       "source": 2317,
       "target": [
         2319,
-        2373
+        774
       ],
       "source_name": "DEVANAGARI LETTER CANDRA E",
-      "target_name": "DEVANAGARI LETTER E, DEVANAGARI VOWEL SIGN CANDRA E"
+      "target_name": "DEVANAGARI LETTER E, COMBINING BREVE"
     },
     {
       "source": 2318,
@@ -35273,10 +36080,111 @@
       "source": 2320,
       "target": [
         2319,
-        2375
+        72548
       ],
       "source_name": "DEVANAGARI LETTER AI",
-      "target_name": "DEVANAGARI LETTER E, DEVANAGARI VOWEL SIGN E"
+      "target_name": "DEVANAGARI LETTER E, SHARADA VOWEL SIGN SHORT E"
+    },
+    {
+      "source": 2591,
+      "target": [
+        2335
+      ],
+      "source_name": "GURMUKHI LETTER TTA",
+      "target_name": "DEVANAGARI LETTER TTA"
+    },
+    {
+      "source": 2592,
+      "target": [
+        2336
+      ],
+      "source_name": "GURMUKHI LETTER TTHA",
+      "target_name": "DEVANAGARI LETTER TTHA"
+    },
+    {
+      "source": 2603,
+      "target": [
+        2338
+      ],
+      "source_name": "GURMUKHI LETTER PHA",
+      "target_name": "DEVANAGARI LETTER DDHA"
+    },
+    {
+      "source": 2588,
+      "target": [
+        2340,
+        2381,
+        2340
+      ],
+      "source_name": "GURMUKHI LETTER JA",
+      "target_name": "DEVANAGARI LETTER TA, DEVANAGARI SIGN VIRAMA, DEVANAGARI LETTER TA"
+    },
+    {
+      "source": 2599,
+      "target": [
+        2346
+      ],
+      "source_name": "GURMUKHI LETTER DHA",
+      "target_name": "DEVANAGARI LETTER PA"
+    },
+    {
+      "source": 2674,
+      "target": [
+        2346,
+        2381,
+        2335
+      ],
+      "source_name": "GURMUKHI IRI",
+      "target_name": "DEVANAGARI LETTER PA, DEVANAGARI SIGN VIRAMA, DEVANAGARI LETTER TTA"
+    },
+    {
+      "source": 2567,
+      "target": [
+        2346,
+        2381,
+        2335,
+        2495
+      ],
+      "source_name": "GURMUKHI LETTER I",
+      "target_name": "DEVANAGARI LETTER PA, DEVANAGARI SIGN VIRAMA, DEVANAGARI LETTER TTA, BENGALI VOWEL SIGN I"
+    },
+    {
+      "source": 2568,
+      "target": [
+        2346,
+        2381,
+        2335,
+        2624
+      ],
+      "source_name": "GURMUKHI LETTER II",
+      "target_name": "DEVANAGARI LETTER PA, DEVANAGARI SIGN VIRAMA, DEVANAGARI LETTER TTA, GURMUKHI VOWEL SIGN II"
+    },
+    {
+      "source": 2575,
+      "target": [
+        2346,
+        2381,
+        2335,
+        72548
+      ],
+      "source_name": "GURMUKHI LETTER EE",
+      "target_name": "DEVANAGARI LETTER PA, DEVANAGARI SIGN VIRAMA, DEVANAGARI LETTER TTA, SHARADA VOWEL SIGN SHORT E"
+    },
+    {
+      "source": 2606,
+      "target": [
+        2349
+      ],
+      "source_name": "GURMUKHI LETTER MA",
+      "target_name": "DEVANAGARI LETTER BHA"
+    },
+    {
+      "source": 2616,
+      "target": [
+        2350
+      ],
+      "source_name": "GURMUKHI LETTER SA",
+      "target_name": "DEVANAGARI LETTER MA"
     },
     {
       "source": 2312,
@@ -35287,6 +36195,22 @@
       ],
       "source_name": "DEVANAGARI LETTER II",
       "target_name": "DEVANAGARI LETTER RA, DEVANAGARI SIGN VIRAMA, DEVANAGARI LETTER I"
+    },
+    {
+      "source": 2581,
+      "target": [
+        2357
+      ],
+      "source_name": "GURMUKHI LETTER KA",
+      "target_name": "DEVANAGARI LETTER VA"
+    },
+    {
+      "source": 2613,
+      "target": [
+        2361
+      ],
+      "source_name": "GURMUKHI LETTER VA",
+      "target_name": "DEVANAGARI LETTER HA"
     },
     {
       "source": 2749,
@@ -35305,11 +36229,37 @@
       "target_name": "DEVANAGARI HEADSTROKE"
     },
     {
+      "source": 2377,
+      "target": [
+        2366,
+        774
+      ],
+      "source_name": "DEVANAGARI VOWEL SIGN CANDRA O",
+      "target_name": "DEVANAGARI VOWEL SIGN AA, COMBINING BREVE"
+    },
+    {
+      "source": 2363,
+      "target": [
+        2366,
+        2362
+      ],
+      "source_name": "DEVANAGARI VOWEL SIGN OOE",
+      "target_name": "DEVANAGARI VOWEL SIGN AA, DEVANAGARI VOWEL SIGN OE"
+    },
+    {
       "source": 70091,
       "target": [
         2362
       ],
       "source_name": "SHARADA VOWEL MODIFIER MARK",
+      "target_name": "DEVANAGARI VOWEL SIGN OE"
+    },
+    {
+      "source": 72544,
+      "target": [
+        2362
+      ],
+      "source_name": "SHARADA VOWEL SIGN OE",
       "target_name": "DEVANAGARI VOWEL SIGN OE"
     },
     {
@@ -35335,6 +36285,14 @@
       ],
       "source_name": "GURMUKHI VOWEL SIGN OO",
       "target_name": "DEVANAGARI VOWEL SIGN SHORT E"
+    },
+    {
+      "source": 2632,
+      "target": [
+        2376
+      ],
+      "source_name": "GURMUKHI VOWEL SIGN AI",
+      "target_name": "DEVANAGARI VOWEL SIGN AI"
     },
     {
       "source": 2637,
@@ -35508,6 +36466,14 @@
       "target_name": "BENGALI LETTER YA"
     },
     {
+      "source": 2544,
+      "target": [
+        2480
+      ],
+      "source_name": "BENGALI LETTER RA WITH MIDDLE DIAGONAL",
+      "target_name": "BENGALI LETTER RA"
+    },
+    {
       "source": 70827,
       "target": [
         2480
@@ -35554,6 +36520,22 @@
       ],
       "source_name": "TIRHUTA VOWEL SIGN AA",
       "target_name": "BENGALI VOWEL SIGN AA"
+    },
+    {
+      "source": 2367,
+      "target": [
+        2495
+      ],
+      "source_name": "DEVANAGARI VOWEL SIGN I",
+      "target_name": "BENGALI VOWEL SIGN I"
+    },
+    {
+      "source": 2623,
+      "target": [
+        2495
+      ],
+      "source_name": "GURMUKHI VOWEL SIGN I",
+      "target_name": "BENGALI VOWEL SIGN I"
     },
     {
       "source": 70833,
@@ -35607,19 +36589,28 @@
       "source": 2569,
       "target": [
         2675,
-        2625
+        72546
       ],
       "source_name": "GURMUKHI LETTER U",
-      "target_name": "GURMUKHI URA, GURMUKHI VOWEL SIGN U"
+      "target_name": "GURMUKHI URA, SHARADA VOWEL SIGN UE"
     },
     {
       "source": 2570,
       "target": [
         2675,
-        2626
+        72547
       ],
       "source_name": "GURMUKHI LETTER UU",
-      "target_name": "GURMUKHI URA, GURMUKHI VOWEL SIGN UU"
+      "target_name": "GURMUKHI URA, SHARADA VOWEL SIGN UUE"
+    },
+    {
+      "source": 2576,
+      "target": [
+        2565,
+        2376
+      ],
+      "source_name": "GURMUKHI LETTER AI",
+      "target_name": "GURMUKHI LETTER A, DEVANAGARI VOWEL SIGN AI"
     },
     {
       "source": 2566,
@@ -35631,15 +36622,6 @@
       "target_name": "GURMUKHI LETTER A, GURMUKHI VOWEL SIGN AA"
     },
     {
-      "source": 2576,
-      "target": [
-        2565,
-        2632
-      ],
-      "source_name": "GURMUKHI LETTER AI",
-      "target_name": "GURMUKHI LETTER A, GURMUKHI VOWEL SIGN AI"
-    },
-    {
       "source": 2580,
       "target": [
         2565,
@@ -35647,33 +36629,6 @@
       ],
       "source_name": "GURMUKHI LETTER AU",
       "target_name": "GURMUKHI LETTER A, GURMUKHI VOWEL SIGN AU"
-    },
-    {
-      "source": 2567,
-      "target": [
-        2674,
-        2623
-      ],
-      "source_name": "GURMUKHI LETTER I",
-      "target_name": "GURMUKHI IRI, GURMUKHI VOWEL SIGN I"
-    },
-    {
-      "source": 2568,
-      "target": [
-        2674,
-        2624
-      ],
-      "source_name": "GURMUKHI LETTER II",
-      "target_name": "GURMUKHI IRI, GURMUKHI VOWEL SIGN II"
-    },
-    {
-      "source": 2575,
-      "target": [
-        2674,
-        2631
-      ],
-      "source_name": "GURMUKHI LETTER EE",
-      "target_name": "GURMUKHI IRI, GURMUKHI VOWEL SIGN EE"
     },
     {
       "source": 2694,
@@ -35749,6 +36704,14 @@
       ],
       "source_name": "ORIYA LETTER AA",
       "target_name": "ORIYA LETTER A, ORIYA VOWEL SIGN AA"
+    },
+    {
+      "source": 4145,
+      "target": [
+        2887
+      ],
+      "source_name": "MYANMAR VOWEL SIGN E",
+      "target_name": "ORIYA VOWEL SIGN E"
     },
     {
       "source": 3054,
@@ -35851,6 +36814,15 @@
       "target_name": "TAMIL LETTER AI"
     },
     {
+      "source": 2964,
+      "target": [
+        2962,
+        2995
+      ],
+      "source_name": "TAMIL LETTER AU",
+      "target_name": "TAMIL LETTER O, TAMIL LETTER LLA"
+    },
+    {
       "source": 3047,
       "target": [
         2965
@@ -35902,6 +36874,15 @@
       "target_name": "TAMIL LETTER NNA"
     },
     {
+      "source": 3450,
+      "target": [
+        2979,
+        3405
+      ],
+      "source_name": "MALAYALAM LETTER CHILLU NN",
+      "target_name": "TAMIL LETTER NNA, MALAYALAM SIGN VIRAMA"
+    },
+    {
       "source": 3066,
       "target": [
         2984,
@@ -35909,6 +36890,14 @@
       ],
       "source_name": "TAMIL NUMBER SIGN",
       "target_name": "TAMIL LETTER NA, TAMIL VOWEL SIGN II"
+    },
+    {
+      "source": 3365,
+      "target": [
+        2990
+      ],
+      "source_name": "MALAYALAM LETTER THA",
+      "target_name": "TAMIL LETTER MA"
     },
     {
       "source": 3060,
@@ -35926,6 +36915,14 @@
       ],
       "source_name": "TAMIL NUMBER TEN",
       "target_name": "TAMIL LETTER YA"
+    },
+    {
+      "source": 3350,
+      "target": [
+        2997
+      ],
+      "source_name": "MALAYALAM LETTER KHA",
+      "target_name": "TAMIL LETTER VA"
     },
     {
       "source": 3380,
@@ -35950,6 +36947,14 @@
       ],
       "source_name": "TAMIL VOWEL SIGN AI",
       "target_name": "TAMIL LETTER NNNA"
+    },
+    {
+      "source": 3000,
+      "target": [
+        2998
+      ],
+      "source_name": "TAMIL LETTER SA",
+      "target_name": "TAMIL LETTER SHA"
     },
     {
       "source": 3382,
@@ -35984,6 +36989,14 @@
       "target_name": "TAMIL VOWEL SIGN I"
     },
     {
+      "source": 3398,
+      "target": [
+        3014
+      ],
+      "source_name": "MALAYALAM VOWEL SIGN E",
+      "target_name": "TAMIL VOWEL SIGN E"
+    },
+    {
       "source": 3018,
       "target": [
         3014,
@@ -36000,6 +37013,32 @@
       ],
       "source_name": "TAMIL VOWEL SIGN AU",
       "target_name": "TAMIL VOWEL SIGN E, TAMIL LETTER LLA"
+    },
+    {
+      "source": 3400,
+      "target": [
+        3014,
+        3014
+      ],
+      "source_name": "MALAYALAM VOWEL SIGN AI",
+      "target_name": "TAMIL VOWEL SIGN E, TAMIL VOWEL SIGN E"
+    },
+    {
+      "source": 3344,
+      "target": [
+        3014,
+        3342
+      ],
+      "source_name": "MALAYALAM LETTER AI",
+      "target_name": "TAMIL VOWEL SIGN E, MALAYALAM LETTER E"
+    },
+    {
+      "source": 3399,
+      "target": [
+        3015
+      ],
+      "source_name": "MALAYALAM VOWEL SIGN EE",
+      "target_name": "TAMIL VOWEL SIGN EE"
     },
     {
       "source": 3019,
@@ -36053,6 +37092,14 @@
       "target_name": "TELUGU LETTER VOCALIC L, TELUGU VOWEL SIGN AA"
     },
     {
+      "source": 3216,
+      "target": [
+        3088
+      ],
+      "source_name": "KANNADA LETTER AI",
+      "target_name": "TELUGU LETTER AI"
+    },
+    {
       "source": 3218,
       "target": [
         3090
@@ -36097,6 +37144,14 @@
       "target_name": "TELUGU LETTER O, TELUGU LENGTH MARK"
     },
     {
+      "source": 3223,
+      "target": [
+        3095
+      ],
+      "source_name": "KANNADA LETTER GA",
+      "target_name": "TELUGU LETTER GA"
+    },
+    {
       "source": 3228,
       "target": [
         3100
@@ -36105,12 +37160,28 @@
       "target_name": "TELUGU LETTER JA"
     },
     {
+      "source": 3229,
+      "target": [
+        3101
+      ],
+      "source_name": "KANNADA LETTER JHA",
+      "target_name": "TELUGU LETTER JHA"
+    },
+    {
       "source": 3230,
       "target": [
         3102
       ],
       "source_name": "KANNADA LETTER NYA",
       "target_name": "TELUGU LETTER NYA"
+    },
+    {
+      "source": 3231,
+      "target": [
+        3103
+      ],
+      "source_name": "KANNADA LETTER TTA",
+      "target_name": "TELUGU LETTER TTA"
     },
     {
       "source": 3106,
@@ -36130,6 +37201,14 @@
       "target_name": "TELUGU LETTER NNA"
     },
     {
+      "source": 3238,
+      "target": [
+        3110
+      ],
+      "source_name": "KANNADA LETTER DA",
+      "target_name": "TELUGU LETTER DA"
+    },
+    {
       "source": 3109,
       "target": [
         3111,
@@ -36137,6 +37216,14 @@
       ],
       "source_name": "TELUGU LETTER THA",
       "target_name": "TELUGU LETTER DHA, HEBREW POINT DAGESH OR MAPIQ"
+    },
+    {
+      "source": 3240,
+      "target": [
+        3112
+      ],
+      "source_name": "KANNADA LETTER NA",
+      "target_name": "TELUGU LETTER NA"
     },
     {
       "source": 3117,
@@ -36154,6 +37241,14 @@
       ],
       "source_name": "KANNADA LETTER YA",
       "target_name": "TELUGU LETTER YA"
+    },
+    {
+      "source": 3248,
+      "target": [
+        3120
+      ],
+      "source_name": "KANNADA LETTER RA",
+      "target_name": "TELUGU LETTER RA"
     },
     {
       "source": 3104,
@@ -36208,6 +37303,30 @@
       "target_name": "TELUGU LETTER VA, TELUGU VOWEL SIGN U"
     },
     {
+      "source": 3251,
+      "target": [
+        3123
+      ],
+      "source_name": "KANNADA LETTER LLA",
+      "target_name": "TELUGU LETTER LLA"
+    },
+    {
+      "source": 3263,
+      "target": [
+        3135
+      ],
+      "source_name": "KANNADA VOWEL SIGN I",
+      "target_name": "TELUGU VOWEL SIGN I"
+    },
+    {
+      "source": 3265,
+      "target": [
+        3137
+      ],
+      "source_name": "KANNADA VOWEL SIGN U",
+      "target_name": "TELUGU VOWEL SIGN U"
+    },
+    {
       "source": 3138,
       "target": [
         3137,
@@ -36215,6 +37334,14 @@
       ],
       "source_name": "TELUGU VOWEL SIGN UU",
       "target_name": "TELUGU VOWEL SIGN U, TELUGU VOWEL SIGN AA"
+    },
+    {
+      "source": 3267,
+      "target": [
+        3139
+      ],
+      "source_name": "KANNADA VOWEL SIGN VOCALIC R",
+      "target_name": "TELUGU VOWEL SIGN VOCALIC R"
     },
     {
       "source": 3140,
@@ -36235,6 +37362,15 @@
       "target_name": "KANNADA LETTER VOCALIC L, KANNADA VOWEL SIGN AA"
     },
     {
+      "source": 3094,
+      "target": [
+        3222,
+        803
+      ],
+      "source_name": "TELUGU LETTER KHA",
+      "target_name": "KANNADA LETTER KHA, COMBINING DOT BELOW"
+    },
+    {
       "source": 3336,
       "target": [
         3335,
@@ -36242,15 +37378,6 @@
       ],
       "source_name": "MALAYALAM LETTER II",
       "target_name": "MALAYALAM LETTER I, MALAYALAM AU LENGTH MARK"
-    },
-    {
-      "source": 3344,
-      "target": [
-        3342,
-        3398
-      ],
-      "source_name": "MALAYALAM LETTER AI",
-      "target_name": "MALAYALAM LETTER E, MALAYALAM VOWEL SIGN E"
     },
     {
       "source": 3347,
@@ -36354,11 +37481,27 @@
       "target_name": "MALAYALAM LETTER NA, MALAYALAM SIGN VIRAMA, MALAYALAM LETTER MA"
     },
     {
+      "source": 4312,
+      "target": [
+        3376
+      ],
+      "source_name": "GEORGIAN LETTER IN",
+      "target_name": "MALAYALAM LETTER RA"
+    },
+    {
       "source": 3377,
       "target": [
         3376
       ],
       "source_name": "MALAYALAM LETTER RRA",
+      "target_name": "MALAYALAM LETTER RA"
+    },
+    {
+      "source": 4098,
+      "target": [
+        3376
+      ],
+      "source_name": "MYANMAR LETTER GA",
       "target_name": "MALAYALAM LETTER RA"
     },
     {
@@ -36378,6 +37521,45 @@
       ],
       "source_name": "MALAYALAM LETTER CHILLU RR",
       "target_name": "MALAYALAM LETTER RA, MALAYALAM SIGN VIRAMA"
+    },
+    {
+      "source": 4225,
+      "target": [
+        3376,
+        4158
+      ],
+      "source_name": "MYANMAR LETTER SHAN HA",
+      "target_name": "MALAYALAM LETTER RA, MYANMAR CONSONANT SIGN MEDIAL HA"
+    },
+    {
+      "source": 4096,
+      "target": [
+        3376,
+        4140
+      ],
+      "source_name": "MYANMAR LETTER KA",
+      "target_name": "MALAYALAM LETTER RA, MYANMAR VOWEL SIGN AA"
+    },
+    {
+      "source": 4131,
+      "target": [
+        3376,
+        4140,
+        4153,
+        3376,
+        4140
+      ],
+      "source_name": "MYANMAR LETTER I",
+      "target_name": "MALAYALAM LETTER RA, MYANMAR VOWEL SIGN AA, MYANMAR SIGN VIRAMA, MALAYALAM LETTER RA, MYANMAR VOWEL SIGN AA"
+    },
+    {
+      "source": 3453,
+      "target": [
+        3378,
+        3405
+      ],
+      "source_name": "MALAYALAM LETTER CHILLU L",
+      "target_name": "MALAYALAM LETTER LA, MALAYALAM SIGN VIRAMA"
     },
     {
       "source": 3438,
@@ -36400,6 +37582,15 @@
       "target_name": "MALAYALAM LETTER HA, MALAYALAM SIGN VIRAMA, MALAYALAM LETTER MA"
     },
     {
+      "source": 3454,
+      "target": [
+        3379,
+        3405
+      ],
+      "source_name": "MALAYALAM LETTER CHILLU LL",
+      "target_name": "MALAYALAM LETTER LLA, MALAYALAM SIGN VIRAMA"
+    },
+    {
       "source": 3394,
       "target": [
         3393
@@ -36416,13 +37607,54 @@
       "target_name": "MALAYALAM VOWEL SIGN U"
     },
     {
-      "source": 3400,
+      "source": 3509,
       "target": [
-        3398,
-        3398
+        3473
       ],
-      "source_name": "MALAYALAM VOWEL SIGN AI",
-      "target_name": "MALAYALAM VOWEL SIGN E, MALAYALAM VOWEL SIGN E"
+      "source_name": "SINHALA LETTER MAHAAPRAANA PAYANNA",
+      "target_name": "SINHALA LETTER EYANNA"
+    },
+    {
+      "source": 3475,
+      "target": [
+        3473,
+        3545
+      ],
+      "source_name": "SINHALA LETTER AIYANNA",
+      "target_name": "SINHALA LETTER EYANNA, SINHALA VOWEL SIGN KOMBUVA"
+    },
+    {
+      "source": 3474,
+      "target": [
+        3473,
+        3530
+      ],
+      "source_name": "SINHALA LETTER EEYANNA",
+      "target_name": "SINHALA LETTER EYANNA, SINHALA SIGN AL-LAKUNA"
+    },
+    {
+      "source": 3513,
+      "target": [
+        3476
+      ],
+      "source_name": "SINHALA LETTER AMBA BAYANNA",
+      "target_name": "SINHALA LETTER OYANNA"
+    },
+    {
+      "source": 3510,
+      "target": [
+        3483
+      ],
+      "source_name": "SINHALA LETTER ALPAPRAANA BAYANNA",
+      "target_name": "SINHALA LETTER MAHAAPRAANA KAYANNA"
+    },
+    {
+      "source": 3520,
+      "target": [
+        3488
+      ],
+      "source_name": "SINHALA LETTER VAYANNA",
+      "target_name": "SINHALA LETTER ALPAPRAANA CAYANNA"
     },
     {
       "source": 3562,
@@ -36439,6 +37671,23 @@
       ],
       "source_name": "SINHALA LITH DIGIT FIVE",
       "target_name": "SINHALA LETTER ALPAPRAANA DAYANNA"
+    },
+    {
+      "source": 3524,
+      "target": [
+        3511
+      ],
+      "source_name": "SINHALA LETTER HAYANNA",
+      "target_name": "SINHALA LETTER MAHAAPRAANA BAYANNA"
+    },
+    {
+      "source": 3469,
+      "target": [
+        3523,
+        3544
+      ],
+      "source_name": "SINHALA LETTER IRUYANNA",
+      "target_name": "SINHALA LETTER DANTAJA SAYANNA, SINHALA VOWEL SIGN GAETTA-PILLA"
     },
     {
       "source": 70675,
@@ -36838,6 +38087,24 @@
       "target_name": "TIBETAN SUBJOINED LETTER LA, TIBETAN VOWEL SIGN AA, TIBETAN VOWEL SIGN REVERSED I"
     },
     {
+      "source": 3963,
+      "target": [
+        3962,
+        3962
+      ],
+      "source_name": "TIBETAN VOWEL SIGN EE",
+      "target_name": "TIBETAN VOWEL SIGN E, TIBETAN VOWEL SIGN E"
+    },
+    {
+      "source": 3965,
+      "target": [
+        3964,
+        3964
+      ],
+      "source_name": "TIBETAN VOWEL SIGN OO",
+      "target_name": "TIBETAN VOWEL SIGN O, TIBETAN VOWEL SIGN O"
+    },
+    {
       "source": 72882,
       "target": [
         72874
@@ -36852,24 +38119,6 @@
       ],
       "source_name": "HANUNOO SIGN PAMUDPOD",
       "target_name": "TAGALOG SIGN PAMUDPOD"
-    },
-    {
-      "source": 4225,
-      "target": [
-        4098,
-        4158
-      ],
-      "source_name": "MYANMAR LETTER SHAN HA",
-      "target_name": "MYANMAR LETTER GA, MYANMAR CONSONANT SIGN MEDIAL HA"
-    },
-    {
-      "source": 4096,
-      "target": [
-        4098,
-        4140
-      ],
-      "source_name": "MYANMAR LETTER KA",
-      "target_name": "MYANMAR LETTER GA, MYANMAR VOWEL SIGN AA"
     },
     {
       "source": 4208,
@@ -36918,6 +38167,15 @@
       "target_name": "MYANMAR LETTER SHAN PHA, MYANMAR CONSONANT SIGN MEDIAL HA"
     },
     {
+      "source": 4193,
+      "target": [
+        4123,
+        4158
+      ],
+      "source_name": "MYANMAR LETTER SGAW KAREN SHA",
+      "target_name": "MYANMAR LETTER RA, MYANMAR CONSONANT SIGN MEDIAL HA"
+    },
+    {
       "source": 4137,
       "target": [
         4126,
@@ -36931,12 +38189,12 @@
       "target": [
         4126,
         4156,
-        4145,
+        2887,
         4140,
         4154
       ],
       "source_name": "MYANMAR LETTER AU",
-      "target_name": "MYANMAR LETTER SA, MYANMAR CONSONANT SIGN MEDIAL RA, MYANMAR VOWEL SIGN E, MYANMAR VOWEL SIGN AA, MYANMAR SIGN ASAT"
+      "target_name": "MYANMAR LETTER SA, MYANMAR CONSONANT SIGN MEDIAL RA, ORIYA VOWEL SIGN E, MYANMAR VOWEL SIGN AA, MYANMAR SIGN ASAT"
     },
     {
       "source": 4254,
@@ -36946,6 +38204,14 @@
       ],
       "source_name": "MYANMAR SYMBOL SHAN ONE",
       "target_name": "MYANMAR VOWEL SIGN SHAN AA, COMBINING RING ABOVE"
+    },
+    {
+      "source": 6031,
+      "target": [
+        6026
+      ],
+      "source_name": "KHMER LETTER TA",
+      "target_name": "KHMER LETTER DA"
     },
     {
       "source": 6051,
@@ -38314,6 +39580,14 @@
       "target_name": "CANADIAN SYLLABICS CARRIER DENTAL S"
     },
     {
+      "source": 42993,
+      "target": [
+        6389
+      ],
+      "source_name": "MODIFIER LETTER CAPITAL S",
+      "target_name": "CANADIAN SYLLABICS CARRIER DENTAL S"
+    },
+    {
       "source": 42672,
       "target": [
         5817
@@ -38880,6 +40154,26 @@
       ],
       "source_name": "HANGUL LETTER NIEUN-PANSIOS",
       "target_name": "HANGUL CHOSEONG NIEUN, HANGUL CHOSEONG PANSIOS"
+    },
+    {
+      "source": 29247,
+      "target": [
+        4354,
+        4462,
+        20008
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-723F",
+      "target_name": "HANGUL CHOSEONG NIEUN, HANGUL JUNGSEONG U, CJK UNIFIED IDEOGRAPH-4E28"
+    },
+    {
+      "source": 12121,
+      "target": [
+        4354,
+        4462,
+        20008
+      ],
+      "source_name": "KANGXI RADICAL HALF TREE TRUNK",
+      "target_name": "HANGUL CHOSEONG NIEUN, HANGUL JUNGSEONG U, CJK UNIFIED IDEOGRAPH-4E28"
     },
     {
       "source": 12599,
@@ -39856,6 +41150,15 @@
       "target_name": "HANGUL CHOSEONG MIEUM, HANGUL CHOSEONG PANSIOS"
     },
     {
+      "source": 21343,
+      "target": [
+        4358,
+        4449
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-535F",
+      "target_name": "HANGUL CHOSEONG MIEUM, HANGUL JUNGSEONG A"
+    },
+    {
       "source": 12610,
       "target": [
         4359
@@ -40269,6 +41572,26 @@
       "target_name": "HANGUL CHOSEONG SIOS"
     },
     {
+      "source": 20170,
+      "target": [
+        4361,
+        12540,
+        4352
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-4ECA",
+      "target_name": "HANGUL CHOSEONG SIOS, KATAKANA-HIRAGANA PROLONGED SOUND MARK, HANGUL CHOSEONG KIYEOK"
+    },
+    {
+      "source": 21512,
+      "target": [
+        4361,
+        12540,
+        4358
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-5408",
+      "target_name": "HANGUL CHOSEONG SIOS, KATAKANA-HIRAGANA PROLONGED SOUND MARK, HANGUL CHOSEONG MIEUM"
+    },
+    {
       "source": 4397,
       "target": [
         4361,
@@ -40449,6 +41772,16 @@
       ],
       "source_name": "HANGUL JONGSEONG SSANGSIOS",
       "target_name": "HANGUL CHOSEONG SIOS, HANGUL CHOSEONG SIOS"
+    },
+    {
+      "source": 19995,
+      "target": [
+        4361,
+        4361,
+        12540
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-4E1B",
+      "target_name": "HANGUL CHOSEONG SIOS, HANGUL CHOSEONG SIOS, KATAKANA-HIRAGANA PROLONGED SOUND MARK"
     },
     {
       "source": 55276,
@@ -40886,6 +42219,15 @@
       "target_name": "HANGUL CHOSEONG CIEUC, HANGUL CHOSEONG CIEUC, HANGUL CHOSEONG HIEUH"
     },
     {
+      "source": 19989,
+      "target": [
+        4364,
+        4457
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-4E15",
+      "target_name": "HANGUL CHOSEONG CIEUC, HANGUL JUNGSEONG O"
+    },
+    {
       "source": 12618,
       "target": [
         4366
@@ -40950,6 +42292,39 @@
       ],
       "source_name": "HANGUL JONGSEONG THIEUTH",
       "target_name": "HANGUL CHOSEONG THIEUTH"
+    },
+    {
+      "source": 38263,
+      "target": [
+        4368,
+        12540,
+        4354,
+        4364
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-9577",
+      "target_name": "HANGUL CHOSEONG THIEUTH, KATAKANA-HIRAGANA PROLONGED SOUND MARK, HANGUL CHOSEONG NIEUN, HANGUL CHOSEONG CIEUC"
+    },
+    {
+      "source": 11985,
+      "target": [
+        4368,
+        12540,
+        4354,
+        4364
+      ],
+      "source_name": "CJK RADICAL LONG ONE",
+      "target_name": "HANGUL CHOSEONG THIEUTH, KATAKANA-HIRAGANA PROLONGED SOUND MARK, HANGUL CHOSEONG NIEUN, HANGUL CHOSEONG CIEUC"
+    },
+    {
+      "source": 12199,
+      "target": [
+        4368,
+        12540,
+        4354,
+        4364
+      ],
+      "source_name": "KANGXI RADICAL LONG",
+      "target_name": "HANGUL CHOSEONG THIEUTH, KATAKANA-HIRAGANA PROLONGED SOUND MARK, HANGUL CHOSEONG NIEUN, HANGUL CHOSEONG CIEUC"
     },
     {
       "source": 43385,
@@ -42084,6 +43459,14 @@
       "target_name": "MASU MARK"
     },
     {
+      "source": 20110,
+      "target": [
+        110882
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-4E8E",
+      "target_name": "KATAKANA LETTER ARCHAIC WU"
+    },
+    {
       "source": 42142,
       "target": [
         41034
@@ -43144,6 +44527,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-513F"
     },
     {
+      "source": 94194,
+      "target": [
+        20799
+      ],
+      "source_name": "CHINESE SMALL SIMPLIFIED ER",
+      "target_name": "CJK UNIFIED IDEOGRAPH-513F"
+    },
+    {
       "source": 64012,
       "target": [
         20800
@@ -43477,6 +44868,14 @@
         20981
       ],
       "source_name": "KANGXI RADICAL OPEN BOX",
+      "target_name": "CJK UNIFIED IDEOGRAPH-51F5"
+    },
+    {
+      "source": 132724,
+      "target": [
+        20981
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-20674",
       "target_name": "CJK UNIFIED IDEOGRAPH-51F5"
     },
     {
@@ -43877,6 +45276,14 @@
         21329
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F82D",
+      "target_name": "CJK UNIFIED IDEOGRAPH-5351"
+    },
+    {
+      "source": 184673,
+      "target": [
+        21329
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-2D161",
       "target_name": "CJK UNIFIED IDEOGRAPH-5351"
     },
     {
@@ -44576,6 +45983,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-58F7"
     },
     {
+      "source": 136499,
+      "target": [
+        22775
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-21533",
+      "target_name": "CJK UNIFIED IDEOGRAPH-58F7"
+    },
+    {
       "source": 12065,
       "target": [
         22786
@@ -44621,6 +46036,14 @@
         22810
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F85D",
+      "target_name": "CJK UNIFIED IDEOGRAPH-591A"
+    },
+    {
+      "source": 136583,
+      "target": [
+        22810
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-21587",
       "target_name": "CJK UNIFIED IDEOGRAPH-591A"
     },
     {
@@ -44694,6 +46117,14 @@
       ],
       "source_name": "KANGXI RADICAL WOMAN",
       "target_name": "CJK UNIFIED IDEOGRAPH-5973"
+    },
+    {
+      "source": 136871,
+      "target": [
+        136872
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-216A7",
+      "target_name": "CJK UNIFIED IDEOGRAPH-216A8"
     },
     {
       "source": 194656,
@@ -45085,6 +46516,14 @@
         23744
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F879",
+      "target_name": "CJK UNIFIED IDEOGRAPH-5CC0"
+    },
+    {
+      "source": 177978,
+      "target": [
+        23744
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-2B73A",
       "target_name": "CJK UNIFIED IDEOGRAPH-5CC0"
     },
     {
@@ -45606,6 +47045,14 @@
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F89B",
       "target_name": "CJK UNIFIED IDEOGRAPH-38E3"
+    },
+    {
+      "source": 140549,
+      "target": [
+        24474
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-22505",
+      "target_name": "CJK UNIFIED IDEOGRAPH-5F9A"
     },
     {
       "source": 194716,
@@ -46656,6 +48103,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-2335F"
     },
     {
+      "source": 177982,
+      "target": [
+        144223
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-2B73E",
+      "target_name": "CJK UNIFIED IDEOGRAPH-2335F"
+    },
+    {
       "source": 32934,
       "target": [
         26380
@@ -47536,6 +48991,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-6D85"
     },
     {
+      "source": 146752,
+      "target": [
+        28037
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-23D40",
+      "target_name": "CJK UNIFIED IDEOGRAPH-6D85"
+    },
+    {
       "source": 194822,
       "target": [
         146718
@@ -48048,14 +49511,6 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-4E2C"
     },
     {
-      "source": 12121,
-      "target": [
-        29247
-      ],
-      "source_name": "KANGXI RADICAL HALF TREE TRUNK",
-      "target_name": "CJK UNIFIED IDEOGRAPH-723F"
-    },
-    {
       "source": 12122,
       "target": [
         29255
@@ -48184,6 +49639,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-732A"
     },
     {
+      "source": 175813,
+      "target": [
+        149524
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-2AEC5",
+      "target_name": "CJK UNIFIED IDEOGRAPH-24814"
+    },
+    {
       "source": 194855,
       "target": [
         149524
@@ -48261,6 +49724,14 @@
         29605
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F92B",
+      "target_name": "CJK UNIFIED IDEOGRAPH-73A5"
+    },
+    {
+      "source": 149757,
+      "target": [
+        29605
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-248FD",
       "target_name": "CJK UNIFIED IDEOGRAPH-73A5"
     },
     {
@@ -48757,6 +50228,14 @@
         151833
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F943",
+      "target_name": "CJK UNIFIED IDEOGRAPH-25119"
+    },
+    {
+      "source": 151834,
+      "target": [
+        151833
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-2511A",
       "target_name": "CJK UNIFIED IDEOGRAPH-25119"
     },
     {
@@ -49648,6 +51127,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-7DC7"
     },
     {
+      "source": 204412,
+      "target": [
+        32199
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-31E7C",
+      "target_name": "CJK UNIFIED IDEOGRAPH-7DC7"
+    },
+    {
       "source": 63894,
       "target": [
         32244
@@ -50006,6 +51493,14 @@
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F97D",
       "target_name": "CJK UNIFIED IDEOGRAPH-8060"
+    },
+    {
+      "source": 157085,
+      "target": [
+        157096
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-2659D",
+      "target_name": "CJK UNIFIED IDEOGRAPH-265A8"
     },
     {
       "source": 194942,
@@ -50573,6 +52068,14 @@
         158774
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F9A4",
+      "target_name": "CJK UNIFIED IDEOGRAPH-26C36"
+    },
+    {
+      "source": 158982,
+      "target": [
+        158774
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-26D06",
       "target_name": "CJK UNIFIED IDEOGRAPH-26C36"
     },
     {
@@ -51176,20 +52679,28 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-898B"
     },
     {
-      "source": 195019,
-      "target": [
-        161966
-      ],
-      "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F9CB",
-      "target_name": "CJK UNIFIED IDEOGRAPH-278AE"
-    },
-    {
       "source": 11973,
       "target": [
         35265
       ],
       "source_name": "CJK RADICAL C-SIMPLIFIED SEE",
       "target_name": "CJK UNIFIED IDEOGRAPH-89C1"
+    },
+    {
+      "source": 18069,
+      "target": [
+        161966
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-4695",
+      "target_name": "CJK UNIFIED IDEOGRAPH-278AE"
+    },
+    {
+      "source": 195019,
+      "target": [
+        161966
+      ],
+      "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F9CB",
+      "target_name": "CJK UNIFIED IDEOGRAPH-278AE"
     },
     {
       "source": 12179,
@@ -51206,6 +52717,14 @@
       ],
       "source_name": "KANGXI RADICAL SPEECH",
       "target_name": "CJK UNIFIED IDEOGRAPH-8A00"
+    },
+    {
+      "source": 11976,
+      "target": [
+        35744
+      ],
+      "source_name": "CJK RADICAL C-SIMPLIFIED SPEECH",
+      "target_name": "CJK UNIFIED IDEOGRAPH-8BA0"
     },
     {
       "source": 195020,
@@ -51424,14 +52943,6 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-8B8A"
     },
     {
-      "source": 11976,
-      "target": [
-        35744
-      ],
-      "source_name": "CJK RADICAL C-SIMPLIFIED SPEECH",
-      "target_name": "CJK UNIFIED IDEOGRAPH-8BA0"
-    },
-    {
       "source": 12181,
       "target": [
         35895
@@ -51504,6 +53015,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-8C9D"
     },
     {
+      "source": 11977,
+      "target": [
+        36125
+      ],
+      "source_name": "CJK RADICAL C-SIMPLIFIED SHELL",
+      "target_name": "CJK UNIFIED IDEOGRAPH-8D1D"
+    },
+    {
       "source": 195028,
       "target": [
         36011
@@ -51560,20 +53079,20 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-8D08"
     },
     {
+      "source": 154324,
+      "target": [
+        36123
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-25AD4",
+      "target_name": "CJK UNIFIED IDEOGRAPH-8D1B"
+    },
+    {
       "source": 195030,
       "target": [
         36123
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F9D6",
       "target_name": "CJK UNIFIED IDEOGRAPH-8D1B"
-    },
-    {
-      "source": 11977,
-      "target": [
-        36125
-      ],
-      "source_name": "CJK RADICAL C-SIMPLIFIED SHELL",
-      "target_name": "CJK UNIFIED IDEOGRAPH-8D1D"
     },
     {
       "source": 12186,
@@ -51704,6 +53223,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-8ECA"
     },
     {
+      "source": 11979,
+      "target": [
+        36710
+      ],
+      "source_name": "CJK RADICAL C-SIMPLIFIED CART",
+      "target_name": "CJK UNIFIED IDEOGRAPH-8F66"
+    },
+    {
       "source": 195038,
       "target": [
         36564
@@ -51766,14 +53293,6 @@
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-F98D",
       "target_name": "CJK UNIFIED IDEOGRAPH-8F62"
-    },
-    {
-      "source": 11979,
-      "target": [
-        36710
-      ],
-      "source_name": "CJK RADICAL C-SIMPLIFIED CART",
-      "target_name": "CJK UNIFIED IDEOGRAPH-8F66"
     },
     {
       "source": 12191,
@@ -52072,6 +53591,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-91D1"
     },
     {
+      "source": 11984,
+      "target": [
+        38021
+      ],
+      "source_name": "CJK RADICAL C-SIMPLIFIED GOLD",
+      "target_name": "CJK UNIFIED IDEOGRAPH-9485"
+    },
+    {
       "source": 63921,
       "target": [
         37428
@@ -52168,30 +53695,6 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-28BFA"
     },
     {
-      "source": 11984,
-      "target": [
-        38021
-      ],
-      "source_name": "CJK RADICAL C-SIMPLIFIED GOLD",
-      "target_name": "CJK UNIFIED IDEOGRAPH-9485"
-    },
-    {
-      "source": 11985,
-      "target": [
-        38263
-      ],
-      "source_name": "CJK RADICAL LONG ONE",
-      "target_name": "CJK UNIFIED IDEOGRAPH-9577"
-    },
-    {
-      "source": 12199,
-      "target": [
-        38263
-      ],
-      "source_name": "KANGXI RADICAL LONG",
-      "target_name": "CJK UNIFIED IDEOGRAPH-9577"
-    },
-    {
       "source": 11986,
       "target": [
         38264
@@ -52214,6 +53717,14 @@
       ],
       "source_name": "KANGXI RADICAL GATE",
       "target_name": "CJK UNIFIED IDEOGRAPH-9580"
+    },
+    {
+      "source": 11988,
+      "target": [
+        38376
+      ],
+      "source_name": "CJK RADICAL C-SIMPLIFIED GATE",
+      "target_name": "CJK UNIFIED IDEOGRAPH-95E8"
     },
     {
       "source": 195054,
@@ -52254,14 +53765,6 @@
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F9F1",
       "target_name": "CJK UNIFIED IDEOGRAPH-28D77"
-    },
-    {
-      "source": 11988,
-      "target": [
-        38376
-      ],
-      "source_name": "CJK RADICAL C-SIMPLIFIED GATE",
-      "target_name": "CJK UNIFIED IDEOGRAPH-95E8"
     },
     {
       "source": 12201,
@@ -52584,6 +54087,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-97CB"
     },
     {
+      "source": 11993,
+      "target": [
+        38886
+      ],
+      "source_name": "CJK RADICAL C-SIMPLIFIED TANNED LEATHER",
+      "target_name": "CJK UNIFIED IDEOGRAPH-97E6"
+    },
+    {
       "source": 64201,
       "target": [
         38875
@@ -52598,14 +54109,6 @@
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2F9FA",
       "target_name": "CJK UNIFIED IDEOGRAPH-97E0"
-    },
-    {
-      "source": 11993,
-      "target": [
-        38886
-      ],
-      "source_name": "CJK RADICAL C-SIMPLIFIED TANNED LEATHER",
-      "target_name": "CJK UNIFIED IDEOGRAPH-97E6"
     },
     {
       "source": 12210,
@@ -52654,6 +54157,14 @@
       ],
       "source_name": "KANGXI RADICAL LEAF",
       "target_name": "CJK UNIFIED IDEOGRAPH-9801"
+    },
+    {
+      "source": 11994,
+      "target": [
+        39029
+      ],
+      "source_name": "CJK RADICAL C-SIMPLIFIED LEAF",
+      "target_name": "CJK UNIFIED IDEOGRAPH-9875"
     },
     {
       "source": 195068,
@@ -52736,14 +54247,6 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-985E"
     },
     {
-      "source": 11994,
-      "target": [
-        39029
-      ],
-      "source_name": "CJK RADICAL C-SIMPLIFIED LEAF",
-      "target_name": "CJK UNIFIED IDEOGRAPH-9875"
-    },
-    {
       "source": 12213,
       "target": [
         39080
@@ -52752,20 +54255,20 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-98A8"
     },
     {
-      "source": 195073,
-      "target": [
-        169398
-      ],
-      "source_name": "CJK COMPATIBILITY IDEOGRAPH-2FA01",
-      "target_name": "CJK UNIFIED IDEOGRAPH-295B6"
-    },
-    {
       "source": 11995,
       "target": [
         39118
       ],
       "source_name": "CJK RADICAL C-SIMPLIFIED WIND",
       "target_name": "CJK UNIFIED IDEOGRAPH-98CE"
+    },
+    {
+      "source": 195073,
+      "target": [
+        169398
+      ],
+      "source_name": "CJK COMPATIBILITY IDEOGRAPH-2FA01",
+      "target_name": "CJK UNIFIED IDEOGRAPH-295B6"
     },
     {
       "source": 12214,
@@ -52806,6 +54309,14 @@
       ],
       "source_name": "CJK RADICAL EAT THREE",
       "target_name": "CJK UNIFIED IDEOGRAPH-98E0"
+    },
+    {
+      "source": 12000,
+      "target": [
+        39267
+      ],
+      "source_name": "CJK RADICAL C-SIMPLIFIED EAT",
+      "target_name": "CJK UNIFIED IDEOGRAPH-9963"
     },
     {
       "source": 195074,
@@ -52856,14 +54367,6 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-9929"
     },
     {
-      "source": 12000,
-      "target": [
-        39267
-      ],
-      "source_name": "CJK RADICAL C-SIMPLIFIED EAT",
-      "target_name": "CJK UNIFIED IDEOGRAPH-9963"
-    },
-    {
       "source": 12216,
       "target": [
         39318
@@ -52896,6 +54399,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-99AC"
     },
     {
+      "source": 12002,
+      "target": [
+        39532
+      ],
+      "source_name": "CJK RADICAL C-SIMPLIFIED HORSE",
+      "target_name": "CJK UNIFIED IDEOGRAPH-9A6C"
+    },
+    {
       "source": 195078,
       "target": [
         39362
@@ -52926,14 +54437,6 @@
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-F987",
       "target_name": "CJK UNIFIED IDEOGRAPH-9A6A"
-    },
-    {
-      "source": 12002,
-      "target": [
-        39532
-      ],
-      "source_name": "CJK RADICAL C-SIMPLIFIED HORSE",
-      "target_name": "CJK UNIFIED IDEOGRAPH-9A6C"
     },
     {
       "source": 12219,
@@ -53040,6 +54543,14 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-9B5A"
     },
     {
+      "source": 12005,
+      "target": [
+        40060
+      ],
+      "source_name": "CJK RADICAL C-SIMPLIFIED FISH",
+      "target_name": "CJK UNIFIED IDEOGRAPH-9C7C"
+    },
+    {
       "source": 63801,
       "target": [
         39791
@@ -53064,14 +54575,6 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-9C57"
     },
     {
-      "source": 12005,
-      "target": [
-        40060
-      ],
-      "source_name": "CJK RADICAL C-SIMPLIFIED FISH",
-      "target_name": "CJK UNIFIED IDEOGRAPH-9C7C"
-    },
-    {
       "source": 12227,
       "target": [
         40165
@@ -53094,6 +54597,14 @@
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2FA0D",
       "target_name": "CJK UNIFIED IDEOGRAPH-4CCE"
+    },
+    {
+      "source": 40515,
+      "target": [
+        40514
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-9E43",
+      "target_name": "CJK UNIFIED IDEOGRAPH-9E42"
     },
     {
       "source": 195087,
@@ -53166,14 +54677,6 @@
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-F920",
       "target_name": "CJK UNIFIED IDEOGRAPH-9E1E"
-    },
-    {
-      "source": 40515,
-      "target": [
-        40514
-      ],
-      "source_name": "CJK UNIFIED IDEOGRAPH-9E43",
-      "target_name": "CJK UNIFIED IDEOGRAPH-9E42"
     },
     {
       "source": 12228,
@@ -53352,20 +54855,20 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-9EFD"
     },
     {
-      "source": 195097,
-      "target": [
-        40709
-      ],
-      "source_name": "CJK COMPATIBILITY IDEOGRAPH-2FA19",
-      "target_name": "CJK UNIFIED IDEOGRAPH-9F05"
-    },
-    {
       "source": 195096,
       "target": [
         40702
       ],
       "source_name": "CJK COMPATIBILITY IDEOGRAPH-2FA18",
       "target_name": "CJK UNIFIED IDEOGRAPH-9EFE"
+    },
+    {
+      "source": 195097,
+      "target": [
+        40709
+      ],
+      "source_name": "CJK COMPATIBILITY IDEOGRAPH-2FA19",
+      "target_name": "CJK UNIFIED IDEOGRAPH-9F05"
     },
     {
       "source": 12237,
@@ -53456,20 +54959,20 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-9F52"
     },
     {
-      "source": 195101,
-      "target": [
-        173568
-      ],
-      "source_name": "CJK COMPATIBILITY IDEOGRAPH-2FA1D",
-      "target_name": "CJK UNIFIED IDEOGRAPH-2A600"
-    },
-    {
       "source": 12014,
       "target": [
         40831
       ],
       "source_name": "CJK RADICAL C-SIMPLIFIED TOOTH",
       "target_name": "CJK UNIFIED IDEOGRAPH-9F7F"
+    },
+    {
+      "source": 195101,
+      "target": [
+        173568
+      ],
+      "source_name": "CJK COMPATIBILITY IDEOGRAPH-2FA1D",
+      "target_name": "CJK UNIFIED IDEOGRAPH-2A600"
     },
     {
       "source": 63940,
@@ -53488,20 +54991,20 @@
       "target_name": "CJK UNIFIED IDEOGRAPH-9F8D"
     },
     {
-      "source": 64217,
-      "target": [
-        40846
-      ],
-      "source_name": "CJK COMPATIBILITY IDEOGRAPH-FAD9",
-      "target_name": "CJK UNIFIED IDEOGRAPH-9F8E"
-    },
-    {
       "source": 12016,
       "target": [
         40857
       ],
       "source_name": "CJK RADICAL C-SIMPLIFIED DRAGON",
       "target_name": "CJK UNIFIED IDEOGRAPH-9F99"
+    },
+    {
+      "source": 64217,
+      "target": [
+        40846
+      ],
+      "source_name": "CJK COMPATIBILITY IDEOGRAPH-FAD9",
+      "target_name": "CJK UNIFIED IDEOGRAPH-9F8E"
     },
     {
       "source": 63751,
@@ -53550,6 +55053,262 @@
       ],
       "source_name": "KANGXI RADICAL FLUTE",
       "target_name": "CJK UNIFIED IDEOGRAPH-9FA0"
+    },
+    {
+      "source": 3292,
+      "target": [
+        3164
+      ],
+      "source_name": "KANNADA ARCHAIC SHRII",
+      "target_name": "TELUGU ARCHAIC SHRII"
+    },
+    {
+      "source": 7656,
+      "target": [
+        6874
+      ],
+      "source_name": "COMBINING LATIN SMALL LETTER B",
+      "target_name": "COMBINING FLAT SIGN"
+    },
+    {
+      "source": 11758,
+      "target": [
+        6875
+      ],
+      "source_name": "COMBINING CYRILLIC LETTER TE",
+      "target_name": "COMBINING DOWN TACK ABOVE"
+    },
+    {
+      "source": 6887,
+      "target": [
+        6885
+      ],
+      "source_name": "COMBINING DOUBLE ARCH ABOVE",
+      "target_name": "COMBINING SEAGULL ABOVE"
+    },
+    {
+      "source": 794,
+      "target": [
+        6889
+      ],
+      "source_name": "COMBINING LEFT ANGLE ABOVE",
+      "target_name": "COMBINING LEFT ANGLE CENTRED ABOVE"
+    },
+    {
+      "source": 661,
+      "target": [
+        42958
+      ],
+      "source_name": "LATIN LETTER PHARYNGEAL VOICED FRICATIVE",
+      "target_name": "LATIN CAPITAL LETTER PHARYNGEAL VOICED FRICATIVE"
+    },
+    {
+      "source": 42959,
+      "target": [
+        42958
+      ],
+      "source_name": "LATIN SMALL LETTER PHARYNGEAL VOICED FRICATIVE",
+      "target_name": "LATIN CAPITAL LETTER PHARYNGEAL VOICED FRICATIVE"
+    },
+    {
+      "source": 840,
+      "target": [
+        69370
+      ],
+      "source_name": "COMBINING DOUBLE VERTICAL LINE BELOW",
+      "target_name": "ARABIC DOUBLE VERTICAL BAR BELOW"
+    },
+    {
+      "source": 2390,
+      "target": [
+        72546
+      ],
+      "source_name": "DEVANAGARI VOWEL SIGN UE",
+      "target_name": "SHARADA VOWEL SIGN UE"
+    },
+    {
+      "source": 2625,
+      "target": [
+        72546
+      ],
+      "source_name": "GURMUKHI VOWEL SIGN U",
+      "target_name": "SHARADA VOWEL SIGN UE"
+    },
+    {
+      "source": 2391,
+      "target": [
+        72547
+      ],
+      "source_name": "DEVANAGARI VOWEL SIGN UUE",
+      "target_name": "SHARADA VOWEL SIGN UUE"
+    },
+    {
+      "source": 2626,
+      "target": [
+        72547
+      ],
+      "source_name": "GURMUKHI VOWEL SIGN UU",
+      "target_name": "SHARADA VOWEL SIGN UUE"
+    },
+    {
+      "source": 2375,
+      "target": [
+        72548
+      ],
+      "source_name": "DEVANAGARI VOWEL SIGN E",
+      "target_name": "SHARADA VOWEL SIGN SHORT E"
+    },
+    {
+      "source": 2631,
+      "target": [
+        72548
+      ],
+      "source_name": "GURMUKHI VOWEL SIGN EE",
+      "target_name": "SHARADA VOWEL SIGN SHORT E"
+    },
+    {
+      "source": 20818,
+      "target": [
+        94195
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-5152",
+      "target_name": "CHINESE SMALL TRADITIONAL ER"
+    },
+    {
+      "source": 128013,
+      "target": [
+        118010
+      ],
+      "source_name": "SNAKE",
+      "target_name": "SNAKE SYMBOL"
+    },
+    {
+      "source": 128067,
+      "target": [
+        118012
+      ],
+      "source_name": "NOSE",
+      "target_name": "NOSE SYMBOL"
+    },
+    {
+      "source": 127863,
+      "target": [
+        118458
+      ],
+      "source_name": "WINE GLASS",
+      "target_name": "FRAGILE SYMBOL"
+    },
+    {
+      "source": 127970,
+      "target": [
+        118459
+      ],
+      "source_name": "OFFICE BUILDING",
+      "target_name": "OFFICE BUILDING SYMBOL"
+    },
+    {
+      "source": 127795,
+      "target": [
+        118460
+      ],
+      "source_name": "DECIDUOUS TREE",
+      "target_name": "TREE SYMBOL"
+    },
+    {
+      "source": 127822,
+      "target": [
+        118461
+      ],
+      "source_name": "RED APPLE",
+      "target_name": "APPLE SYMBOL"
+    },
+    {
+      "source": 127823,
+      "target": [
+        118461
+      ],
+      "source_name": "GREEN APPLE",
+      "target_name": "APPLE SYMBOL"
+    },
+    {
+      "source": 127826,
+      "target": [
+        118462
+      ],
+      "source_name": "CHERRIES",
+      "target_name": "CHERRY SYMBOL"
+    },
+    {
+      "source": 127827,
+      "target": [
+        118463
+      ],
+      "source_name": "STRAWBERRY",
+      "target_name": "STRAWBERRY SYMBOL"
+    },
+    {
+      "source": 10495,
+      "target": [
+        118496
+      ],
+      "source_name": "BRAILLE PATTERN DOTS-12345678",
+      "target_name": "GEOMANTIC FIGURE POPULUS"
+    },
+    {
+      "source": 10677,
+      "target": [
+        118512
+      ],
+      "source_name": "CIRCLE WITH HORIZONTAL BAR",
+      "target_name": "MEDIUM SMALL WHITE CIRCLE WITH HORIZONTAL BAR"
+    },
+    {
+      "source": 8644,
+      "target": [
+        129232
+      ],
+      "source_name": "RIGHTWARDS ARROW OVER LEFTWARDS ARROW",
+      "target_name": "LONG RIGHTWARDS ARROW OVER LONG LEFTWARDS ARROW"
+    },
+    {
+      "source": 8652,
+      "target": [
+        129233
+      ],
+      "source_name": "RIGHTWARDS HARPOON OVER LEFTWARDS HARPOON",
+      "target_name": "LONG RIGHTWARDS HARPOON OVER LONG LEFTWARDS HARPOON"
+    },
+    {
+      "source": 9815,
+      "target": [
+        129621
+      ],
+      "source_name": "WHITE CHESS BISHOP",
+      "target_name": "WHITE CHESS ALFIL"
+    },
+    {
+      "source": 9821,
+      "target": [
+        129623
+      ],
+      "source_name": "BLACK CHESS BISHOP",
+      "target_name": "BLACK CHESS ALFIL"
+    },
+    {
+      "source": 128276,
+      "target": [
+        130042
+      ],
+      "source_name": "BELL",
+      "target_name": "ALARM BELL SYMBOL"
+    },
+    {
+      "source": 24888,
+      "target": [
+        177983
+      ],
+      "source_name": "CJK UNIFIED IDEOGRAPH-6138",
+      "target_name": "CJK UNIFIED IDEOGRAPH-2B73F"
     }
   ]
 }

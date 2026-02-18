@@ -3,6 +3,7 @@
 Unicode Confusable Characters Library for Go.
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/disciplinedware/go-confusables.svg)](https://pkg.go.dev/github.com/disciplinedware/go-confusables)
+[![build](https://github.com/disciplinedware/go-confusables/actions/workflows/ci.yml/badge.svg)](https://github.com/disciplinedware/go-confusables/actions/workflows/ci.yml)
 
 This library provides utilities to detect and normalize Unicode "confusable" characters (homoglyphs), which are often used to evade text-based security filters. It uses the authoritative data from [Unicode TR39](https://unicode.org/reports/tr39/).
 
@@ -66,6 +67,16 @@ You can regenerate the embedded data using the provided CLI tool. For CI/reprodu
 ```bash
 go run ./cmd/confusables-gen --version 16.0.0 --generated-at 2026-02-18T12:00:00Z
 ```
+
+## Development
+
+A `Makefile` is provided for common development tasks:
+
+- `make test`: Run all tests with the race detector.
+- `make lint`: Run the linter.
+- `make build`: Build the library and the generator tool.
+- `make generate`: Update the embedded data from Unicode.org.
+- `make clean`: Remove build artifacts.
 
 ## License
 
