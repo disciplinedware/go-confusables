@@ -1,0 +1,10 @@
+# Binaries
+confusables-gen
+data-gen
+
+# Data source files
+*.txt
+!LICENSE
+
+# OS files
+.DS_Store
